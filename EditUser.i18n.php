@@ -862,9 +862,10 @@ $messages['ku-latn'] = array(
 /** Cornish (Kernowek)
  * @author Kernoweger
  * @author Kw-Moon
+ * @author Nrowe
  */
 $messages['kw'] = array(
-	'edituser-dosearch' => 'Whila',
+	'edituser-dosearch' => 'Hwilas',
 );
 
 /** Luxembourgish (Lëtzebuergesch)
