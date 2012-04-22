@@ -744,18 +744,19 @@ $messages['it'] = array(
  * @author Aotake
  * @author Hosiryuhosi
  * @author JtFuruhata
+ * @author Shirayuki
  * @author W.CC
  * @author 青子守歌
  */
 $messages['ja'] = array(
-	'edituser-desc' => '権限を持つ利用者が、他利用者の個人設定を変更できるようにする',
-	'edituser' => '利用者情報の編集',
+	'edituser-desc' => '権限を持つ利用者が、他の利用者の個人設定を変更できるようにする',
+	'edituser' => '利用者情報を編集',
 	'edituser-username' => '利用者名：',
 	'edituser-dosearch' => '検索',
 	'edituser-nouser' => '利用者「$1」は存在しません。',
-	'edituser-exempt' => '利用者"$1"は編集できません',
-	'right-edituser' => '他の利用者の個人設定を編集する',
-	'right-edituser-exempt' => '他の利用者による個人設定編集を回避',
+	'edituser-exempt' => '利用者「$1」は編集できません。',
+	'right-edituser' => '他の利用者の個人設定を編集',
+	'right-edituser-exempt' => '他の利用者にこの利用者の個人設定を編集させない',
 );
 
 /** Javanese (Basa Jawa)
