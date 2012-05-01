@@ -368,7 +368,7 @@ $messages['ee'] = array(
  */
 $messages['el'] = array(
 	'edituser' => 'Τροποποίηση χρήστη',
-	'edituser-username' => 'Όνομα',
+	'edituser-username' => 'Όνομα χρήστη:',
 	'edituser-dosearch' => 'Αναζήτηση',
 );
 
