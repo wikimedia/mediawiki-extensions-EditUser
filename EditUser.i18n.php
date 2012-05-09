@@ -769,10 +769,17 @@ $messages['jv'] = array(
 );
 
 /** Kazakh (Cyrillic script) (‪Қазақша (кирил)‬)
+ * @author Daniyar
  * @author GaiJin
  */
 $messages['kk-cyrl'] = array(
+	'edituser' => 'Қатысушыны өзгерту',
+	'edituser-username' => 'Қатысушы аты:',
 	'edituser-dosearch' => 'Іздеу',
+	'edituser-nouser' => '«$1» деген қатысушы есімі жоқ.',
+	'edituser-exempt' => 'Қатысушы «$1» өзгертуге келмейді.',
+	'right-edituser' => 'Басқа қатысушыларға арналған баптауларды өзгерту',
+	'right-edituser-exempt' => 'Басқа қатысушылар бұл қатысушының баптауларын өзгерте алмайды',
 );
 
 /** Kalaallisut (Kalaallisut)
