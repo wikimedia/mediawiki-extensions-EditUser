@@ -478,12 +478,12 @@ $messages['fr'] = array(
  * @author ChrisPtDe
  */
 $messages['frp'] = array(
-	'edituser' => 'Changiér l’utilisator',
+	'edituser' => 'Changiér l’usanciér',
 	'edituser-username' => 'Nom d’usanciér :',
 	'edituser-dosearch' => 'Rechèrchiér',
-	'edituser-nouser' => 'L’utilisator « $1 » ègziste pas.',
-	'edituser-exempt' => 'L’utilisator « $1 » pôt pas étre changiê.',
-	'right-edituser' => 'Changiér les prèferences ux ôtros utilisators',
+	'edituser-nouser' => 'L’usanciér « $1 » ègziste pas.',
+	'edituser-exempt' => 'L’usanciér « $1 » pôt pas étre changiê.',
+	'right-edituser' => 'Changiér les prèferences ux ôtros usanciérs',
 );
 
 /** Western Frisian (Frysk)
@@ -1079,6 +1079,7 @@ $messages['nl'] = array(
  * @author Harald Khan
  * @author Jon Harald Søby
  * @author Nghtwlkr
+ * @author Njardarlogar
  */
 $messages['nn'] = array(
 	'edituser-desc' => 'Lar priviligerte brukarar endra andre brukarar sine instillingar',
@@ -1110,7 +1111,7 @@ $messages['oc'] = array(
  * @author Psubhashish
  */
 $messages['or'] = array(
-	'edituser-dosearch' => 'ଖୋଜିବା',
+	'edituser-dosearch' => 'ଏଠାରେ ଖୋଜନ୍ତୁ',
 );
 
 /** Ossetic (Ирон)
@@ -1449,7 +1450,7 @@ $messages['tg-cyrl'] = array(
 	'edituser-exempt' => 'Корбари мушаххасшударо наметавон вироиш кард',
 );
 
-/** Tajik (Latin script) (tojikī)
+/** Tajik (Latin script) (Tojikī)
  * @author Liangent
  */
 $messages['tg-latn'] = array(
@@ -1556,7 +1557,7 @@ $messages['ur'] = array(
 	'right-edituser-exempt' => 'دوسرے صارفِ ہٰذا کی ترجیحات تدوین نہیں کرسکتے',
 );
 
-/** Veps (Vepsän kel')
+/** Veps (Vepsän kel’)
  * @author Triple-ADHD-AS
  * @author Игорь Бродский
  */
