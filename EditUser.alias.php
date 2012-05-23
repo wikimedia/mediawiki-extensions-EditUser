@@ -23,6 +23,11 @@ $specialPageAliases['arz'] = array(
 	'EditUser' => array( 'تعديل_اليوزر' ),
 );
 
+/** Banjar (Bahasa Banjar) */
+$specialPageAliases['bjn'] = array(
+	'EditUser' => array( 'Babak_pamakai' ),
+);
+
 /** Bosnian (Bosanski) */
 $specialPageAliases['bs'] = array(
 	'EditUser' => array( 'UrediKorisnika' ),
@@ -31,6 +36,11 @@ $specialPageAliases['bs'] = array(
 /** German (Deutsch) */
 $specialPageAliases['de'] = array(
 	'EditUser' => array( 'Benutzereinstellungen_bearbeiten' ),
+);
+
+/** Zazaki (Zazaki) */
+$specialPageAliases['diq'] = array(
+	'EditUser' => array( 'KarberTimar' ),
 );
 
 /** Lower Sorbian (Dolnoserbski) */
@@ -70,7 +80,7 @@ $specialPageAliases['gl'] = array(
 
 /** Swiss German (Alemannisch) */
 $specialPageAliases['gsw'] = array(
-	'EditUser' => array( 'Benutzeryystellige bearbeite' ),
+	'EditUser' => array( 'Benutzeryystellige_bearbeite' ),
 );
 
 /** Gujarati (ગુજરાતી) */
