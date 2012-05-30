@@ -1364,6 +1364,13 @@ $messages['sr-el'] = array(
 	'right-edituser-exempt' => 'Drugi ne mogu da menjaju podešavanja ovog korisnika',
 );
 
+/** Seeltersk (Seeltersk)
+ * @author Pyt
+ */
+$messages['stq'] = array(
+	'edituser-dosearch' => 'Säik',
+);
+
 /** Sundanese (Basa Sunda)
  * @author Irwangatot
  */
