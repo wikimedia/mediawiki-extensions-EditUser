@@ -28,7 +28,7 @@ $specialPageAliases['bjn'] = array(
 	'EditUser' => array( 'Babak_pamakai' ),
 );
 
-/** Bosnian (Bosanski) */
+/** Bosnian (bosanski) */
 $specialPageAliases['bs'] = array(
 	'EditUser' => array( 'UrediKorisnika' ),
 );
@@ -48,7 +48,7 @@ $specialPageAliases['dsb'] = array(
 	'EditUser' => array( 'Wužywarske_nastajenja_wobźěłaś' ),
 );
 
-/** Spanish (Español) */
+/** Spanish (español) */
 $specialPageAliases['es'] = array(
 	'EditUser' => array( 'Editar_usuario' ),
 );
@@ -58,17 +58,17 @@ $specialPageAliases['fa'] = array(
 	'EditUser' => array( 'ویرایش_کاربر' ),
 );
 
-/** Finnish (Suomi) */
+/** Finnish (suomi) */
 $specialPageAliases['fi'] = array(
 	'EditUser' => array( 'Muokkaa_käyttäjää' ),
 );
 
-/** French (Français) */
+/** French (français) */
 $specialPageAliases['fr'] = array(
 	'EditUser' => array( 'Modifier_l’utilisateur', 'ModifierUtilisateur', 'EditerUtilisateur', 'ÉditerUtilisateur', 'Éditer_l’utilisateur' ),
 );
 
-/** Franco-Provençal (Arpetan) */
+/** Franco-Provençal (arpetan) */
 $specialPageAliases['frp'] = array(
 	'EditUser' => array( 'Changiér_l\'usanciér', 'ChangiérLUsanciér' ),
 );
@@ -93,7 +93,7 @@ $specialPageAliases['he'] = array(
 	'EditUser' => array( 'עריכת_משתמש' ),
 );
 
-/** Croatian (Hrvatski) */
+/** Croatian (hrvatski) */
 $specialPageAliases['hr'] = array(
 	'EditUser' => array( 'Uredi_suradnika' ),
 );
@@ -108,12 +108,12 @@ $specialPageAliases['ht'] = array(
 	'EditUser' => array( 'ModifyeItilizatè' ),
 );
 
-/** Hungarian (Magyar) */
+/** Hungarian (magyar) */
 $specialPageAliases['hu'] = array(
 	'EditUser' => array( 'Szerkesztő_szerkesztése' ),
 );
 
-/** Interlingua (Interlingua) */
+/** Interlingua (interlingua) */
 $specialPageAliases['ia'] = array(
 	'EditUser' => array( 'Modificar_usator' ),
 );
@@ -145,7 +145,7 @@ $specialPageAliases['km'] = array(
 
 /** Korean (한국어) */
 $specialPageAliases['ko'] = array(
-	'EditUser' => array( '사용자_편집' ),
+	'EditUser' => array( '사용자편집' ),
 );
 
 /** Colognian (Ripoarisch) */
@@ -163,7 +163,7 @@ $specialPageAliases['lb'] = array(
 	'EditUser' => array( 'Benotzer_änneren' ),
 );
 
-/** Macedonian (Македонски) */
+/** Macedonian (македонски) */
 $specialPageAliases['mk'] = array(
 	'EditUser' => array( 'УредиКорисник' ),
 );
@@ -183,7 +183,7 @@ $specialPageAliases['myv'] = array(
 	'EditUser' => array( 'ВитницяПетниця' ),
 );
 
-/** Norwegian Bokmål (‪Norsk (bokmål)‬) */
+/** Norwegian Bokmål (‪norsk (bokmål)‬) */
 $specialPageAliases['nb'] = array(
 	'EditUser' => array( 'Rediger_bruker' ),
 );
@@ -198,22 +198,22 @@ $specialPageAliases['nl'] = array(
 	'EditUser' => array( 'GebruikerBewerken' ),
 );
 
-/** Occitan (Occitan) */
+/** Occitan (occitan) */
 $specialPageAliases['oc'] = array(
 	'EditUser' => array( 'EditarUtilizaire', 'Editar_l’utilizaire' ),
 );
 
-/** Polish (Polski) */
+/** Polish (polski) */
 $specialPageAliases['pl'] = array(
 	'EditUser' => array( 'Edycja_użytkownika' ),
 );
 
-/** Portuguese (Português) */
+/** Portuguese (português) */
 $specialPageAliases['pt'] = array(
 	'EditUser' => array( 'Editar_utilizador' ),
 );
 
-/** Romanian (Română) */
+/** Romanian (română) */
 $specialPageAliases['ro'] = array(
 	'EditUser' => array( 'Modificare_utilizator' ),
 );
@@ -223,17 +223,17 @@ $specialPageAliases['sa'] = array(
 	'EditUser' => array( 'सम्पादन्‌योजक' ),
 );
 
-/** Slovak (Slovenčina) */
+/** Slovak (slovenčina) */
 $specialPageAliases['sk'] = array(
 	'EditUser' => array( 'ÚpravaPoužívateľa' ),
 );
 
-/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬) */
+/** Serbian (Cyrillic script) (‪српски (ћирилица)‬) */
 $specialPageAliases['sr-ec'] = array(
 	'EditUser' => array( 'Уреди_корисника' ),
 );
 
-/** Swedish (Svenska) */
+/** Swedish (svenska) */
 $specialPageAliases['sv'] = array(
 	'EditUser' => array( 'Redigera_användare' ),
 );
@@ -258,17 +258,17 @@ $specialPageAliases['tr'] = array(
 	'EditUser' => array( 'KullanıcıDüzenle' ),
 );
 
-/** Tatar (Cyrillic script) (Татарча) */
+/** Tatar (Cyrillic script) (татарча) */
 $specialPageAliases['tt-cyrl'] = array(
 	'EditUser' => array( 'Кулланучыны_үзгәртү' ),
 );
 
-/** Simplified Chinese (‪中文(简体)‬) */
+/** Simplified Chinese (‪中文（简体）‬) */
 $specialPageAliases['zh-hans'] = array(
 	'EditUser' => array( '编辑用户' ),
 );
 
-/** Traditional Chinese (‪中文(繁體)‬) */
+/** Traditional Chinese (‪中文（繁體）‬) */
 $specialPageAliases['zh-hant'] = array(
 	'EditUser' => array( '編輯用戶' ),
 );
