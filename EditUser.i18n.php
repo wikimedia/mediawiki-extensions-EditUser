@@ -152,7 +152,7 @@ $messages['avk'] = array(
 	'edituser-exempt' => 'Bazena favesikpata me zo robetar',
 );
 
-/** Azerbaijani (Azərbaycanca)
+/** Azerbaijani (azərbaycanca)
  * @author Sortilegus
  */
 $messages['az'] = array(
@@ -182,7 +182,7 @@ $messages['be-tarask'] = array(
 	'right-edituser-exempt' => 'іншыя ня могуць рэдагаваць налады гэтага ўдзельніка',
 );
 
-/** Bulgarian (Български)
+/** Bulgarian (български)
  * @author DCLXVI
  */
 $messages['bg'] = array(
@@ -205,7 +205,7 @@ $messages['bn'] = array(
 	'edituser-dosearch' => 'অনুসন্ধান',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Fohanno
  * @author Fulup
  * @author Y-M D
@@ -221,7 +221,7 @@ $messages['br'] = array(
 	'right-edituser-exempt' => "An dud diavaez n'hallont ket degas kemmoù e penndibaboù an implijer-mañ",
 );
 
-/** Bosnian (Bosanski)
+/** Bosnian (bosanski)
  * @author CERminator
  */
 $messages['bs'] = array(
@@ -246,7 +246,7 @@ $messages['bug'] = array(
 	'edituser-exempt' => "Iyaro papaké dé'na ullé ripadécé",
 );
 
-/** Catalan (Català)
+/** Catalan (català)
  * @author Aleator
  * @author Jordi Roqué
  * @author SMP
@@ -278,14 +278,14 @@ $messages['ch'] = array(
 	'edituser-dosearch' => 'Aligao',
 );
 
-/** Sorani (کوردی)
+/** Sorani Kurdish (کوردی)
  * @author Asoxor
  */
 $messages['ckb'] = array(
 	'edituser-dosearch' => 'بگەڕێ',
 );
 
-/** Czech (Česky)
+/** Czech (česky)
  * @author Jkjk
  * @author Mormegil
  */
@@ -316,7 +316,7 @@ $messages['cu'] = array(
 	'edituser-dosearch' => 'ищи́',
 );
 
-/** Danish (Dansk)
+/** Danish (dansk)
  * @author Jon Harald Søby
  */
 $messages['da'] = array(
@@ -356,7 +356,7 @@ $messages['dsb'] = array(
 	'right-edituser-exempt' => 'Nastajenja njedaju se wót tśeśich změniś',
 );
 
-/** Ewe (Eʋegbe) */
+/** Ewe (eʋegbe) */
 $messages['ee'] = array(
 	'edituser-dosearch' => 'Dii',
 );
@@ -387,7 +387,7 @@ $messages['eo'] = array(
 	'right-edituser-exempt' => 'Aliaj ne povas redakti la preferojn de ĉi tiu uzanto',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Baiji
  * @author Crazymadlover
  * @author Imre
@@ -404,7 +404,7 @@ $messages['es'] = array(
 	'right-edituser-exempt' => 'Otros no pueden editar estas preferencias de usuario',
 );
 
-/** Estonian (Eesti)
+/** Estonian (eesti)
  * @author KalmerE.
  * @author Pikne
  */
@@ -414,7 +414,7 @@ $messages['et'] = array(
 	'edituser-nouser' => 'Kasutajat "$1" pole olemas.',
 );
 
-/** Basque (Euskara)
+/** Basque (euskara)
  * @author An13sa
  * @author Kobazulo
  */
@@ -436,7 +436,7 @@ $messages['fa'] = array(
 	'edituser-username' => 'نام کاربری:',
 );
 
-/** Finnish (Suomi)
+/** Finnish (suomi)
  * @author Crt
  * @author Jack Phoenix
  * @author Mobe
@@ -455,7 +455,7 @@ $messages['fi'] = array(
 	'right-edituser-exempt' => 'Muut eivät voi muokata tämän käyttäjän asetuksia.',
 );
 
-/** French (Français)
+/** French (français)
  * @author Farras
  * @author Grondin
  * @author Louperivois
@@ -474,7 +474,7 @@ $messages['fr'] = array(
 	'right-edituser-exempt' => 'Les préférences de cet utilisateur ne sont pas modifiables par les autres',
 );
 
-/** Franco-Provençal (Arpetan)
+/** Franco-Provençal (arpetan)
  * @author ChrisPtDe
  */
 $messages['frp'] = array(
@@ -493,12 +493,12 @@ $messages['fy'] = array(
 	'edituser-dosearch' => 'Sykje',
 );
 
-/** Simplified Gan script (‪赣语(简体)‬) */
+/** Simplified Gan script (‪赣语（简体）‬) */
 $messages['gan-hans'] = array(
 	'edituser-dosearch' => '寻吖',
 );
 
-/** Traditional Gan script (‪贛語(繁體)‬)
+/** Traditional Gan script (‪贛語（繁體）‬)
  * @author Symane
  */
 $messages['gan-hant'] = array(
@@ -609,7 +609,7 @@ $messages['hil'] = array(
 	'edituser-dosearch' => 'Pangita-a',
 );
 
-/** Croatian (Hrvatski)
+/** Croatian (hrvatski)
  * @author Dalibor Bosits
  * @author Ex13
  * @author SpeedyGonsales
@@ -639,7 +639,7 @@ $messages['hsb'] = array(
 	'right-edituser-exempt' => 'Nastajenja njedadźa so wot druhich změnić',
 );
 
-/** Hungarian (Magyar)
+/** Hungarian (magyar)
  * @author Dani
  * @author Misibacsi
  */
@@ -663,7 +663,7 @@ $messages['hy'] = array(
 	'edituser-dosearch' => 'Որոնել',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -718,13 +718,13 @@ $messages['io'] = array(
 	'right-edituser' => 'Editar la preferaji di altra uzanti',
 );
 
-/** Icelandic (Íslenska) */
+/** Icelandic (íslenska) */
 $messages['is'] = array(
 	'edituser-username' => 'Nafn',
 	'edituser-dosearch' => 'Leita',
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author Beta16
  * @author Darth Kule
  * @author Pinodd
@@ -782,7 +782,7 @@ $messages['kk-cyrl'] = array(
 	'right-edituser-exempt' => 'Басқа қатысушылар бұл қатысушының баптауларын өзгерте алмайды',
 );
 
-/** Kalaallisut (Kalaallisut)
+/** Kalaallisut (kalaallisut)
  * @author Qaqqalik
  */
 $messages['kl'] = array(
@@ -867,7 +867,7 @@ $messages['ku-latn'] = array(
 	'edituser-dosearch' => 'Lêbigere',
 );
 
-/** Cornish (Kernowek)
+/** Cornish (kernowek)
  * @author Kernoweger
  * @author Kw-Moon
  * @author Nrowe
@@ -897,7 +897,7 @@ $messages['lfn'] = array(
 	'edituser-dosearch' => 'Xerca',
 );
 
-/** Lithuanian (Lietuvių)
+/** Lithuanian (lietuvių)
  * @author Homo
  * @author Tomasdd
  */
@@ -912,7 +912,7 @@ $messages['lt'] = array(
 	'right-edituser-exempt' => 'Kiti negali redaguoti šio naudotojo nustatymų',
 );
 
-/** Latvian (Latviešu)
+/** Latvian (latviešu)
  * @author GreenZeb
  */
 $messages['lv'] = array(
@@ -926,7 +926,7 @@ $messages['mhr'] = array(
 	'edituser-dosearch' => 'Кычал',
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -953,7 +953,7 @@ $messages['ml'] = array(
 	'edituser-exempt' => '"$1" എന്ന ഉപയോക്താവ് തിരുത്താനാവില്ല.',
 );
 
-/** Mongolian (Монгол)
+/** Mongolian (монгол)
  * @author Chinneeb
  */
 $messages['mn'] = array(
@@ -1075,7 +1075,7 @@ $messages['nl'] = array(
 	'right-edituser-exempt' => 'Voorkeuren niet te bewerken door anderen',
 );
 
-/** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
+/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
  * @author Harald Khan
  * @author Jon Harald Søby
  * @author Nghtwlkr
@@ -1092,7 +1092,7 @@ $messages['nn'] = array(
 	'right-edituser-exempt' => 'Innstilingane deira kan ikkje bli endra av andre',
 );
 
-/** Occitan (Occitan)
+/** Occitan (occitan)
  * @author Cedric31
  */
 $messages['oc'] = array(
@@ -1130,7 +1130,7 @@ $messages['pdc'] = array(
 	'edituser-dosearch' => 'Uffgucke',
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author Leinad
  * @author Masti
  * @author Sp5uhe
@@ -1170,7 +1170,7 @@ $messages['ps'] = array(
 	'edituser-dosearch' => 'پلټل',
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author Hamilton Abreu
  * @author Lijealso
  * @author Malafaya
@@ -1187,7 +1187,7 @@ $messages['pt'] = array(
 	'right-edituser-exempt' => 'Não podem ter as suas preferências editadas por outros',
 );
 
-/** Brazilian Portuguese (Português do Brasil)
+/** Brazilian Portuguese (português do Brasil)
  * @author Eduardo.mps
  * @author Giro720
  */
@@ -1209,7 +1209,7 @@ $messages['rif'] = array(
 	'edituser-dosearch' => 'Tarzzut',
 );
 
-/** Romanian (Română)
+/** Romanian (română)
  * @author Firilacroco
  * @author KlaudiuMihaila
  * @author Minisarm
@@ -1225,7 +1225,7 @@ $messages['ro'] = array(
 	'right-edituser-exempt' => 'Preferințele acestui utilizator nu pot fi modificate de către altcineva',
 );
 
-/** Tarandíne (Tarandíne)
+/** tarandíne (tarandíne)
  * @author Joetaras
  */
 $messages['roa-tara'] = array(
@@ -1239,7 +1239,7 @@ $messages['roa-tara'] = array(
 	'right-edituser-exempt' => 'Non ge puè avè le lore preferenze cangiete da otre',
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Eleferen
  * @author Ferrer
  * @author Александр Сигачёв
@@ -1255,7 +1255,7 @@ $messages['ru'] = array(
 	'right-edituser-exempt' => 'другие не могут редактировать настройки этого участника',
 );
 
-/** Sicilian (Sicilianu)
+/** Sicilian (sicilianu)
  * @author Melos
  */
 $messages['scn'] = array(
@@ -1285,7 +1285,7 @@ $messages['si'] = array(
 	'right-edituser-exempt' => 'අනිකුත් පරිශීලකයන්ට මෙම අභිරුචීන් වෙනස් කළ නොහැකිය.',
 );
 
-/** Slovak (Slovenčina)
+/** Slovak (slovenčina)
  * @author Helix84
  */
 $messages['sk'] = array(
@@ -1299,7 +1299,7 @@ $messages['sk'] = array(
 	'right-edituser-exempt' => 'Jeho nastavenia nemôžu upravovať iní používatelia',
 );
 
-/** Slovenian (Slovenščina)
+/** Slovenian (slovenščina)
  * @author Dbc334
  */
 $messages['sl'] = array(
@@ -1320,7 +1320,7 @@ $messages['so'] = array(
 	'edituser-dosearch' => 'Raadi',
 );
 
-/** Albanian (Shqip)
+/** Albanian (shqip)
  * @author Puntori
  */
 $messages['sq'] = array(
@@ -1334,7 +1334,7 @@ $messages['sq'] = array(
 	'right-edituser-exempt' => 'Të tjerët nuk mund të ndryshojnë parapëlqimet e këtij përdoruesi',
 );
 
-/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
  * @author Rancher
  * @author Sasa Stefanovic
  * @author Обрадовић Горан
@@ -1350,7 +1350,7 @@ $messages['sr-ec'] = array(
 	'right-edituser-exempt' => 'Други не могу да мењају подешавања овог корисника',
 );
 
-/** Serbian (Latin script) (‪Srpski (latinica)‬)
+/** Serbian (Latin script) (‪srpski (latinica)‬)
  * @author Michaello
  */
 $messages['sr-el'] = array(
@@ -1379,7 +1379,7 @@ $messages['su'] = array(
 	'edituser-dosearch' => 'Sungsi',
 );
 
-/** Swedish (Svenska)
+/** Swedish (svenska)
  * @author Boivie
  * @author Lejonel
  * @author M.M.S.
@@ -1436,7 +1436,7 @@ $messages['te'] = array(
 	'right-edituser-exempt' => 'ఇతరులు ఈ వాడుకరి యొక్క అభిరుచులను మార్చలేకుండటం',
 );
 
-/** Tetum (Tetun)
+/** Tetum (tetun)
  * @author MF-Warburg
  */
 $messages['tet'] = array(
@@ -1446,7 +1446,7 @@ $messages['tet'] = array(
 	'edituser-nouser' => 'Uza-na\'in "$1" la iha.',
 );
 
-/** Tajik (Cyrillic script) (Тоҷикӣ)
+/** Tajik (Cyrillic script) (тоҷикӣ)
  * @author Ibrahim
  */
 $messages['tg-cyrl'] = array(
@@ -1457,7 +1457,7 @@ $messages['tg-cyrl'] = array(
 	'edituser-exempt' => 'Корбари мушаххасшударо наметавон вироиш кард',
 );
 
-/** Tajik (Latin script) (Tojikī)
+/** Tajik (Latin script) (tojikī)
  * @author Liangent
  */
 $messages['tg-latn'] = array(
@@ -1528,7 +1528,7 @@ $messages['tr'] = array(
 	'right-edituser-exempt' => 'Başkaları bu kullanıcının tercihlerini düzenleyemez',
 );
 
-/** Tatar (Cyrillic script) (Татарча)
+/** Tatar (Cyrillic script) (татарча)
  * @author Ильнар
  * @author Рашат Якупов
  */
@@ -1543,7 +1543,7 @@ $messages['tt-cyrl'] = array(
 	'right-edituser-exempt' => 'башкалар бу кулланучының көйләнмәләрен төзәтә алмый',
 );
 
-/** Ukrainian (Українська)
+/** Ukrainian (українська)
  * @author Тест
  */
 $messages['uk'] = array(
@@ -1617,7 +1617,7 @@ $messages['yi'] = array(
 	'edituser-dosearch' => 'זוכן',
 );
 
-/** Simplified Chinese (‪中文(简体)‬)
+/** Simplified Chinese (‪中文（简体）‬)
  * @author Gaoxuewei
  * @author Gzdavidwong
  * @author Wilsonmess
@@ -1634,7 +1634,7 @@ $messages['zh-hans'] = array(
 	'right-edituser-exempt' => '他人无法编辑这个用户的参数设置',
 );
 
-/** Traditional Chinese (‪中文(繁體)‬)
+/** Traditional Chinese (‪中文（繁體）‬)
  * @author Liangent
  * @author Mark85296341
  * @author Wrightbus
