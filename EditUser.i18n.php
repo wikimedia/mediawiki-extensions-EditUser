@@ -430,10 +430,14 @@ $messages['eu'] = array(
 );
 
 /** Persian (فارسی)
+ * @author Hooshmand.hasannia
  * @author Mjbmr
  */
 $messages['fa'] = array(
+	'edituser' => 'ویرایش کاربر',
 	'edituser-username' => 'نام کاربری:',
+	'edituser-dosearch' => 'جستجو',
+	'edituser-nouser' => 'کاربر "$1" وجود ندارد.',
 );
 
 /** Finnish (suomi)
