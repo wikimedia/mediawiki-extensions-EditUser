@@ -23,6 +23,11 @@ $specialPageAliases['arz'] = array(
 	'EditUser' => array( 'تعديل_اليوزر' ),
 );
 
+/** Assamese (অসমীয়া) */
+$specialPageAliases['as'] = array(
+	'EditUser' => array( 'সদস্য_সম্পাদনা' ),
+);
+
 /** Banjar (Bahasa Banjar) */
 $specialPageAliases['bjn'] = array(
 	'EditUser' => array( 'Babak_pamakai' ),
@@ -43,7 +48,7 @@ $specialPageAliases['diq'] = array(
 	'EditUser' => array( 'KarberTimar' ),
 );
 
-/** Lower Sorbian (Dolnoserbski) */
+/** Lower Sorbian (dolnoserbski) */
 $specialPageAliases['dsb'] = array(
 	'EditUser' => array( 'Wužywarske_nastajenja_wobźěłaś' ),
 );
@@ -73,7 +78,7 @@ $specialPageAliases['frp'] = array(
 	'EditUser' => array( 'Changiér_l\'usanciér', 'ChangiérLUsanciér' ),
 );
 
-/** Galician (Galego) */
+/** Galician (galego) */
 $specialPageAliases['gl'] = array(
 	'EditUser' => array( 'Editar_o_usuario' ),
 );
@@ -98,7 +103,7 @@ $specialPageAliases['hr'] = array(
 	'EditUser' => array( 'Uredi_suradnika' ),
 );
 
-/** Upper Sorbian (Hornjoserbsce) */
+/** Upper Sorbian (hornjoserbsce) */
 $specialPageAliases['hsb'] = array(
 	'EditUser' => array( 'Wužiwarske_nastajenja_wobdźěłać' ),
 );
