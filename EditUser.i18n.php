@@ -74,7 +74,7 @@ $messages['am'] = array(
 	'edituser-dosearch' => 'ፍለጋ',
 );
 
-/** Aragonese (Aragonés)
+/** Aragonese (aragonés)
  * @author Juanpabl
  */
 $messages['an'] = array(
@@ -166,7 +166,7 @@ $messages['az'] = array(
 	'right-edituser-exempt' => 'digər istifadəçilər bu istifadəçinin nizamlamalarını redaktə edə bilməz',
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  * @author Jim-by
  * @author Zedlik
@@ -300,7 +300,7 @@ $messages['cs'] = array(
 	'right-edituser-exempt' => 'Jiní nemohou měnit nastavení uživatele',
 );
 
-/** Kashubian (Kaszëbsczi)
+/** Kashubian (kaszëbsczi)
  * @author Byulent
  */
 $messages['csb'] = array(
@@ -308,7 +308,7 @@ $messages['csb'] = array(
 	'edituser-dosearch' => 'Szëkba',
 );
 
-/** Church Slavic (Словѣ́ньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ)
+/** Church Slavic (словѣ́ньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ)
  * @author ОйЛ
  */
 $messages['cu'] = array(
@@ -342,7 +342,7 @@ $messages['de'] = array(
 	'right-edituser-exempt' => 'Einstellungen können nicht durch Dritte bearbeitet werden',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -509,7 +509,7 @@ $messages['gan-hant'] = array(
 	'edituser-dosearch' => '尋吖',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Alma
  * @author Toliño
  */
@@ -629,7 +629,7 @@ $messages['hr'] = array(
 	'right-edituser-exempt' => 'Drugi ne mogu uređivati postavke ovog suradnika',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
@@ -1401,7 +1401,7 @@ $messages['sv'] = array(
 	'right-edituser-exempt' => 'Deras inställningar kan inte redigeras av andra',
 );
 
-/** Silesian (Ślůnski)
+/** Silesian (ślůnski)
  * @author Herr Kriss
  */
 $messages['szl'] = array(

@@ -218,6 +218,11 @@ $specialPageAliases['pt'] = array(
 	'EditUser' => array( 'Editar_utilizador' ),
 );
 
+/** Brazilian Portuguese (português do Brasil) */
+$specialPageAliases['pt-br'] = array(
+	'EditUser' => array( 'Editar_usuário' ),
+);
+
 /** Romanian (română) */
 $specialPageAliases['ro'] = array(
 	'EditUser' => array( 'Modificare_utilizator' ),
