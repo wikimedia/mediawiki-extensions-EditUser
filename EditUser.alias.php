@@ -260,7 +260,7 @@ $specialPageAliases['th'] = array(
 
 /** Tagalog (Tagalog) */
 $specialPageAliases['tl'] = array(
-	'EditUser' => array( 'Baguhin ang tagagamit' ),
+	'EditUser' => array( 'Baguhin_ang_tagagamit' ),
 );
 
 /** Turkish (Türkçe) */

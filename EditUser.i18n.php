@@ -902,16 +902,17 @@ $messages['lfn'] = array(
 );
 
 /** Lithuanian (lietuvių)
+ * @author Eitvys200
  * @author Homo
  * @author Tomasdd
  */
 $messages['lt'] = array(
 	'edituser-desc' => 'Privilegijuotiems naudotojams leidžiama redaguoti kitų naudotojų nustatymus',
 	'edituser' => 'Redaguoti naudotoją',
-	'edituser-username' => 'Vardas',
+	'edituser-username' => 'Naudotojo vardas:',
 	'edituser-dosearch' => 'Ieškoti',
-	'edituser-nouser' => 'Tokio naudotojo nėra',
-	'edituser-exempt' => 'Šio naudotojo redaguoti negalima',
+	'edituser-nouser' => 'Vartotojas "$1" neegzistuoja.',
+	'edituser-exempt' => 'Vartotojas "$1" negali būti taisomas.',
 	'right-edituser' => 'Redaguoti kitų naudotojų nustatymus',
 	'right-edituser-exempt' => 'Kiti negali redaguoti šio naudotojo nustatymų',
 );
