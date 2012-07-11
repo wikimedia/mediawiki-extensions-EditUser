@@ -183,7 +183,7 @@ $specialPageAliases['ms'] = array(
 	'EditUser' => array( 'Jumlah_pengguna' ),
 );
 
-/** Erzya (Эрзянь) */
+/** Erzya (эрзянь) */
 $specialPageAliases['myv'] = array(
 	'EditUser' => array( 'ВитницяПетниця' ),
 );

@@ -263,7 +263,7 @@ $messages['ca'] = array(
 	'right-edituser-exempt' => "Que els altres usuaris no puguin canviar les preferències d'aquest usuari",
 );
 
-/** Chechen (Нохчийн)
+/** Chechen (нохчийн)
  * @author Sasan700
  */
 $messages['ce'] = array(
@@ -772,7 +772,7 @@ $messages['jv'] = array(
 	'edituser-dosearch' => 'Golèk',
 );
 
-/** Kazakh (Cyrillic script) (‪Қазақша (кирил)‬)
+/** Kazakh (Cyrillic script) (‪қазақша (кирил)‬)
  * @author Daniyar
  * @author GaiJin
  */
@@ -924,7 +924,7 @@ $messages['lv'] = array(
 	'edituser-dosearch' => 'Meklēt',
 );
 
-/** Eastern Mari (Олык Марий)
+/** Eastern Mari (олык марий)
  * @author Сай
  */
 $messages['mhr'] = array(
@@ -1016,7 +1016,7 @@ $messages['my'] = array(
 	'edituser-nouser' => 'အသုံးပြုသူအကောင့် "$1" မတည်ရှိပါ။',
 );
 
-/** Erzya (Эрзянь)
+/** Erzya (эрзянь)
  * @author Botuzhaleny-sodamo
  */
 $messages['myv'] = array(
@@ -1033,8 +1033,7 @@ $messages['nah'] = array(
 	'edituser-dosearch' => 'Titlatēmōz',
 );
 
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
- * @author Jon Harald Søby
+/** Norwegian Bokmål (‪norsk (bokmål)‬)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
@@ -1569,7 +1568,7 @@ $messages['ur'] = array(
 	'right-edituser-exempt' => 'دوسرے صارفِ ہٰذا کی ترجیحات تدوین نہیں کرسکتے',
 );
 
-/** Veps (Vepsän kel’)
+/** Veps (vepsän kel’)
  * @author Triple-ADHD-AS
  * @author Игорь Бродский
  */
