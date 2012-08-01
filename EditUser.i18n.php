@@ -342,6 +342,15 @@ $messages['de'] = array(
 	'right-edituser-exempt' => 'Einstellungen können nicht durch Dritte bearbeitet werden',
 );
 
+/** Zazaki (Zazaki)
+ * @author Erdemaslancan
+ */
+$messages['diq'] = array(
+	'edituser' => 'KArberi timar kerê',
+	'edituser-username' => 'Namey karberi:',
+	'edituser-dosearch' => 'Cı geyre',
+);
+
 /** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
@@ -854,7 +863,7 @@ $messages['krj'] = array(
 $messages['ksh'] = array(
 	'edituser-desc' => 'Määt et müjjelesch, dat Metmaacher met däm Rääsch dozoh aan anderlüx Enstelleunge driije künne.',
 	'edituser' => 'De Enstellunge för dä Metmaacher ändere',
-	'edituser-username' => 'Metmaacher_Name:',
+	'edituser-username' => 'Metmaacher_Naame:',
 	'edituser-dosearch' => 'Söhke',
 	'edituser-nouser' => 'Ene Metmaacher „$1“ ham_mer nit.',
 	'edituser-exempt' => '{{GENDER:$1|Dä Metmaacher|Dat|Dä Metmaacher|De Metmaacherin|Et}} „$1“ kam_mer nit beärbeide.',
