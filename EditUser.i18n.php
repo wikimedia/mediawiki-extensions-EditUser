@@ -781,6 +781,16 @@ $messages['jv'] = array(
 	'edituser-dosearch' => 'Golèk',
 );
 
+/** Georgian (ქართული)
+ * @author David1010
+ */
+$messages['ka'] = array(
+	'edituser' => 'მომხმარებლის რედაქტირება',
+	'edituser-username' => 'მომხმარებლის სახელი:',
+	'edituser-dosearch' => 'ძიება',
+	'edituser-nouser' => 'მომხმარებელი „$1“ არ არსებობს.',
+);
+
 /** Kazakh (Cyrillic script) (‪қазақша (кирил)‬)
  * @author Daniyar
  * @author GaiJin
