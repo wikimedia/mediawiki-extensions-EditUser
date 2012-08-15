@@ -506,6 +506,14 @@ $messages['fy'] = array(
 	'edituser-dosearch' => 'Sykje',
 );
 
+/** Irish (Gaeilge)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['ga'] = array(
+	'edituser-username' => 'Ainm úsáideora:',
+	'edituser-dosearch' => 'Cuardaigh',
+);
+
 /** Simplified Gan script (‪赣语（简体）‬) */
 $messages['gan-hans'] = array(
 	'edituser-dosearch' => '寻吖',
