@@ -51,6 +51,13 @@ $messages['niu'] = array(
 	'edituser-dosearch' => 'Fano',
 );
 
+/** Achinese (Acèh)
+ * @author Si Gam Acèh
+ */
+$messages['ace'] = array(
+	'edituser-dosearch' => 'Mita',
+);
+
 /** Afrikaans (Afrikaans)
  * @author Arnobarnard
  * @author Naudefj
@@ -248,6 +255,7 @@ $messages['bug'] = array(
 
 /** Catalan (català)
  * @author Aleator
+ * @author BroOk
  * @author Jordi Roqué
  * @author SMP
  * @author Solde
@@ -257,8 +265,8 @@ $messages['ca'] = array(
 	'edituser' => "Edita l'usuari",
 	'edituser-username' => "Nom d'usuari:",
 	'edituser-dosearch' => 'Cerca',
-	'edituser-nouser' => "L'usuari especificat no existeix",
-	'edituser-exempt' => "L'usuari especificat no es pot editar",
+	'edituser-nouser' => 'L\'usuari "$1" no existeix.',
+	'edituser-exempt' => 'L\'usuari "$1" no pot ser editat.',
 	'right-edituser' => "Editar les preferències d'altres usuaris",
 	'right-edituser-exempt' => "Que els altres usuaris no puguin canviar les preferències d'aquest usuari",
 );
