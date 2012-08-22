@@ -133,6 +133,11 @@ $specialPageAliases['ig'] = array(
 	'EditUser' => array( 'RüoỌ\'bànifé' ),
 );
 
+/** Italian (italiano) */
+$specialPageAliases['it'] = array(
+	'EditUser' => array( 'ModificaUtente' ),
+);
+
 /** Japanese (日本語) */
 $specialPageAliases['ja'] = array(
 	'EditUser' => array( '利用者情報の編集' ),
