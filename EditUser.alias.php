@@ -193,7 +193,7 @@ $specialPageAliases['myv'] = array(
 	'EditUser' => array( 'ВитницяПетниця' ),
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬) */
+/** Norwegian Bokmål (norsk (bokmål)‎) */
 $specialPageAliases['nb'] = array(
 	'EditUser' => array( 'Rediger_bruker' ),
 );
@@ -243,7 +243,7 @@ $specialPageAliases['sk'] = array(
 	'EditUser' => array( 'ÚpravaPoužívateľa' ),
 );
 
-/** Serbian (Cyrillic script) (‪српски (ћирилица)‬) */
+/** Serbian (Cyrillic script) (српски (ћирилица)‎) */
 $specialPageAliases['sr-ec'] = array(
 	'EditUser' => array( 'Уреди_корисника' ),
 );
@@ -278,12 +278,12 @@ $specialPageAliases['tt-cyrl'] = array(
 	'EditUser' => array( 'Кулланучыны_үзгәртү' ),
 );
 
-/** Simplified Chinese (‪中文（简体）‬) */
+/** Simplified Chinese (中文（简体）‎) */
 $specialPageAliases['zh-hans'] = array(
 	'EditUser' => array( '编辑用户' ),
 );
 
-/** Traditional Chinese (‪中文（繁體）‬) */
+/** Traditional Chinese (中文（繁體）‎) */
 $specialPageAliases['zh-hant'] = array(
 	'EditUser' => array( '編輯用戶' ),
 );
