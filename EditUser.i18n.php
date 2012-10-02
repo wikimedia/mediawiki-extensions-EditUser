@@ -173,7 +173,7 @@ $messages['az'] = array(
 	'right-edituser-exempt' => 'digər istifadəçilər bu istifadəçinin nizamlamalarını redaktə edə bilməz',
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  * @author Jim-by
  * @author Zedlik
@@ -522,12 +522,12 @@ $messages['ga'] = array(
 	'edituser-dosearch' => 'Cuardaigh',
 );
 
-/** Simplified Gan script (‪赣语（简体）‬) */
+/** Simplified Gan script (赣语（简体）‎) */
 $messages['gan-hans'] = array(
 	'edituser-dosearch' => '寻吖',
 );
 
-/** Traditional Gan script (‪贛語（繁體）‬)
+/** Traditional Gan script (贛語（繁體）‎)
  * @author Symane
  */
 $messages['gan-hant'] = array(
@@ -581,7 +581,7 @@ $messages['gv'] = array(
 	'edituser-dosearch' => 'Ronsee',
 );
 
-/** Hausa (هَوُسَ) */
+/** Hausa (Hausa) */
 $messages['ha'] = array(
 	'edituser-dosearch' => 'Nema',
 );
@@ -807,7 +807,7 @@ $messages['ka'] = array(
 	'edituser-nouser' => 'მომხმარებელი „$1“ არ არსებობს.',
 );
 
-/** Kazakh (Cyrillic script) (‪қазақша (кирил)‬)
+/** Kazakh (Cyrillic script) (қазақша (кирил)‎)
  * @author Daniyar
  * @author GaiJin
  */
@@ -897,7 +897,7 @@ $messages['ksh'] = array(
 	'right-edituser-exempt' => 'Kann de Enstellunge nit fun andere ändere lohße',
 );
 
-/** Kurdish (Latin script) (‪Kurdî (latînî)‬)
+/** Kurdish (Latin script) (Kurdî (latînî)‎)
  * @author Bangin
  * @author George Animal
  */
@@ -1068,7 +1068,7 @@ $messages['nah'] = array(
 	'edituser-dosearch' => 'Titlatēmōz',
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬)
+/** Norwegian Bokmål (norsk (bokmål)‎)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
@@ -1114,7 +1114,7 @@ $messages['nl'] = array(
 	'right-edituser-exempt' => 'Voorkeuren niet te bewerken door anderen',
 );
 
-/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
+/** Norwegian Nynorsk (norsk (nynorsk)‎)
  * @author Harald Khan
  * @author Jon Harald Søby
  * @author Nghtwlkr
@@ -1374,7 +1374,7 @@ $messages['sq'] = array(
 	'right-edituser-exempt' => 'Të tjerët nuk mund të ndryshojnë parapëlqimet e këtij përdoruesi',
 );
 
-/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (српски (ћирилица)‎)
  * @author Rancher
  * @author Sasa Stefanovic
  * @author Обрадовић Горан
@@ -1390,7 +1390,7 @@ $messages['sr-ec'] = array(
 	'right-edituser-exempt' => 'Други не могу да мењају подешавања овог корисника',
 );
 
-/** Serbian (Latin script) (‪srpski (latinica)‬)
+/** Serbian (Latin script) (srpski (latinica)‎)
  * @author Michaello
  */
 $messages['sr-el'] = array(
@@ -1657,7 +1657,7 @@ $messages['yi'] = array(
 	'edituser-dosearch' => 'זוכן',
 );
 
-/** Simplified Chinese (‪中文（简体）‬)
+/** Simplified Chinese (中文（简体）‎)
  * @author Gaoxuewei
  * @author Gzdavidwong
  * @author Wilsonmess
@@ -1674,7 +1674,7 @@ $messages['zh-hans'] = array(
 	'right-edituser-exempt' => '他人无法编辑这个用户的参数设置',
 );
 
-/** Traditional Chinese (‪中文（繁體）‬)
+/** Traditional Chinese (中文（繁體）‎)
  * @author Liangent
  * @author Mark85296341
  * @author Wrightbus
