@@ -8,8 +8,6 @@ if(!defined('MEDIAWIKI')) {
 	die(1);
 }
 
-$dir = dirname(__FILE__) . '/';
-
 $wgExtensionCredits['specialpage'][] = array(
 	'path'           => __FILE__,
 	'name'           => 'EditUser',
@@ -21,10 +19,10 @@ $wgExtensionCredits['specialpage'][] = array(
 
 // Internationlization files
 $wgMessagesDirs['EditUser'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles['EditUserAliases'] = $dir . 'EditUser.alias.php';
+$wgExtensionMessagesFiles['EditUserAliases'] = __DIR__ . '/EditUser.alias.php';
 // Special page classes
-$wgAutoloadClasses['EditUser'] = $dir . 'EditUser_body.php';
-$wgAutoloadClasses['EditUserPreferencesForm'] = $dir . 'EditUserPreferencesForm.php';
+$wgAutoloadClasses['EditUser'] = __DIR__ . '/EditUser_body.php';
+$wgAutoloadClasses['EditUserPreferencesForm'] = __DIR__ . '/EditUserPreferencesForm.php';
 $wgSpecialPages['EditUser'] = 'EditUser';
 $wgSpecialPageGroups['EditUser'] = 'users';
 
