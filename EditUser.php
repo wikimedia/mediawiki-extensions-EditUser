@@ -24,6 +24,7 @@ $wgMessagesDirs['EditUser'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['EditUserAliases'] = $dir . 'EditUser.alias.php';
 // Special page classes
 $wgAutoloadClasses['EditUser'] = $dir . 'EditUser_body.php';
+$wgAutoloadClasses['EditUserPreferencesForm'] = $dir . 'EditUserPreferencesForm.php';
 $wgSpecialPages['EditUser'] = 'EditUser';
 $wgSpecialPageGroups['EditUser'] = 'users';
 
