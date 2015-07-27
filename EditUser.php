@@ -20,7 +20,7 @@ $wgExtensionCredits['specialpage'][] = array(
 );
 
 // Internationlization files
-$wgExtensionMessagesFiles['EditUser'] = $dir . 'EditUser.i18n.php';
+$wgMessagesDirs['EditUser'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['EditUserAliases'] = $dir . 'EditUser.alias.php';
 // Special page classes
 $wgAutoloadClasses['EditUser'] = $dir . 'EditUser_body.php';

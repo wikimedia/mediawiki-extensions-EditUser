@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Baiji\r",
+			"Crazymadlover\r",
+			"Imre\r",
+			"Jatrobat\r"
+		]
+	},
+	"edituser-desc": "Permite a usuarios privilegiados editar las preferencias de otro usuario",
+	"edituser": "Editar usuario",
+	"edituser-username": "Nombre de usuario:",
+	"edituser-dosearch": "Buscar",
+	"edituser-nouser": "El usuario \"$1\" no existe.",
+	"edituser-exempt": "El usuario \"$1\" no puede ser editado.",
+	"right-edituser": "Editar las preferencias de otro usuario",
+	"right-edituser-exempt": "Otros no pueden editar estas preferencias de usuario"
+}

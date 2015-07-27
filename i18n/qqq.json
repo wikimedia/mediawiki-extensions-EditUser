@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jon Harald Søby\r",
+			"Purodha\r",
+			"Raymond\r",
+			"The Evil IP address\r",
+			"Umherirrender\r"
+		]
+	},
+	"edituser": "{{optional}}",
+	"edituser-desc": "{{desc|name=EditUser|url=https://www.mediawiki.org/wiki/Extension:EditUser}}",
+	"edituser-username": "{{Identical|Username}}:",
+	"edituser-dosearch": "{{Identical|Search}}",
+	"edituser-nouser": "Used for saying that the user does not exist.",
+	"edituser-exempt": "Used for saying the user cannot be edited.",
+	"right-edituser": "{{doc-right|edituser}}",
+	"right-edituser-exempt": "{{doc-right|edituser-exempt}}"
+}

@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bennylin\r",
+			"Farras\r",
+			"Irwangatot\r",
+			"Rex\r"
+		]
+	},
+	"edituser-desc": "Mengijinkan pengguna yang berhak untuk menyunting preferensi pengguna lain",
+	"edituser": "Sunting pengguna",
+	"edituser-username": "Nama pengguna:",
+	"edituser-dosearch": "Cari",
+	"edituser-nouser": "Pengguna \"$1\" tidak dapat ditemukan.",
+	"edituser-exempt": "Pengguna \"$1\" tidak dapat disunting",
+	"right-edituser": "Sunting preferensi pengguna lain",
+	"right-edituser-exempt": "Orang lain tidak dapat menyunting preferensi pengguna ini"
+}
