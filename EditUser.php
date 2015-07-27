@@ -11,7 +11,7 @@ if(!defined('MEDIAWIKI')) {
 $wgExtensionCredits['specialpage'][] = array(
 	'path'           => __FILE__,
 	'name'           => 'EditUser',
-	'version'        => '1.7.0',
+	'version'        => '1.8.0',
 	'author'         => 'Ryan Schmidt',
 	'descriptionmsg' => 'edituser-desc',
 	'url'            => 'https://www.mediawiki.org/wiki/Extension:EditUser',
