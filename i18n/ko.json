@@ -3,11 +3,13 @@
 		"authors": [
 			"Freebiekr\r",
 			"Kwj2772\r",
-			"ToePeu\r"
+			"ToePeu\r",
+			"Freebiekr",
+			"Kwj2772"
 		]
 	},
-	"edituser-desc": "특권이 있는 사용자가 다른 사용자의 환경 설정을 편집",
 	"edituser": "사용자를 편집",
+	"edituser-desc": "특권이 있는 사용자가 다른 사용자의 환경 설정을 편집",
 	"edituser-username": "사용자 이름:",
 	"edituser-dosearch": "찾기",
 	"edituser-nouser": "\"$1\" 사용자는 존재하지 않습니다.",

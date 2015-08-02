@@ -2,11 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Eduardo.mps\r",
-			"Giro720\r"
+			"Giro720\r",
+			"Eduardo.mps",
+			"Giro720"
 		]
 	},
-	"edituser-desc": "Permite que utilizadores com privilégios editem as preferências de outros utilizadores",
 	"edituser": "Editar Utilizador",
+	"edituser-desc": "Permite que utilizadores com privilégios editem as preferências de outros utilizadores",
 	"edituser-username": "Usuário:",
 	"edituser-dosearch": "Pesquisar",
 	"edituser-nouser": "O utilizador \"$1\" não existe.",

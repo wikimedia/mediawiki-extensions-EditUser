@@ -2,11 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Jkjk\r",
-			"Mormegil\r"
+			"Mormegil\r",
+			"Jkjk",
+			"Mormegil"
 		]
 	},
-	"edituser-desc": "Umožňuje oprávněným uživatelům měnit nastavení jiných uživatelů",
 	"edituser": "Upravit uživatele",
+	"edituser-desc": "Umožňuje oprávněným uživatelům měnit nastavení jiných uživatelů",
 	"edituser-username": "Uživatelské jméno:",
 	"edituser-dosearch": "Hledat",
 	"edituser-nouser": "Uživatel \"$1\" neexistuje.",

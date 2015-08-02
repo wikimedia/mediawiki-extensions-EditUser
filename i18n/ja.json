@@ -6,11 +6,14 @@
 			"JtFuruhata\r",
 			"Shirayuki\r",
 			"W.CC\r",
-			"青子守歌\r"
+			"青子守歌\r",
+			"JtFuruhata",
+			"Shirayuki",
+			"青子守歌"
 		]
 	},
-	"edituser-desc": "権限を持つ利用者が、他の利用者の個人設定を変更できるようにする",
 	"edituser": "利用者情報を編集",
+	"edituser-desc": "権限を持つ利用者が、他の利用者の個人設定を変更できるようにする",
 	"edituser-username": "利用者名：",
 	"edituser-dosearch": "検索",
 	"edituser-nouser": "利用者「$1」は存在しません。",
