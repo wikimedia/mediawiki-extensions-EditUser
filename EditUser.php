@@ -11,6 +11,7 @@ if(!defined('MEDIAWIKI')) {
 $wgExtensionCredits['specialpage'][] = array(
 	'path'           => __FILE__,
 	'name'           => 'EditUser',
+	'namemsg'        => 'extensionname-edituser',
 	'version'        => '1.8.0',
 	'author'         => 'Ryan Schmidt',
 	'descriptionmsg' => 'edituser-desc',
@@ -20,6 +21,7 @@ $wgExtensionCredits['specialpage'][] = array(
 // Internationlization files
 $wgMessagesDirs['EditUser'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['EditUserAliases'] = __DIR__ . '/EditUser.alias.php';
+
 // Special page classes
 $wgAutoloadClasses['EditUser'] = __DIR__ . '/EditUser_body.php';
 $wgAutoloadClasses['EditUserPreferencesForm'] = __DIR__ . '/EditUserPreferencesForm.php';

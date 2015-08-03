@@ -5,6 +5,7 @@
 		]
 	},
 	"edituser": "Edit user",
+	"extensionname-edituser": "EditUser",
 	"edituser-desc": "Allows privileged users to edit other user's preferences",
 	"edituser-username": "Username:",
 	"edituser-dosearch": "Search",
