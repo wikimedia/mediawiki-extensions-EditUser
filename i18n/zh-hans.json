@@ -4,11 +4,14 @@
 			"Gaoxuewei\r",
 			"Gzdavidwong\r",
 			"Wilsonmess\r",
-			"Wmr89502270\r"
+			"Wmr89502270\r",
+			"Gaoxuewei",
+			"Wilsonmess",
+			"Wmr89502270"
 		]
 	},
-	"edituser-desc": "允许特许用户改变其他用户的个人偏好",
 	"edituser": "编辑用户",
+	"edituser-desc": "允许特许用户改变其他用户的个人偏好",
 	"edituser-username": "用户名：",
 	"edituser-dosearch": "搜索",
 	"edituser-nouser": "用户 $1 不存在。",

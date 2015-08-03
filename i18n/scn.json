@@ -2,15 +2,16 @@
 	"@metadata": {
 		"authors": [
 			"Melos\r",
-			"Melos"
+			"Melos",
+			"Pippinu"
 		]
 	},
 	"edituser": "Cancia utenti",
-	"edituser-desc": "Pirmetti all'utenti cu li pirmessi nicissari di canciari li prifirenzi di autri utenti",
-	"edituser-username": "Nomu:",
-	"edituser-dosearch": "Ricerca",
-	"edituser-nouser": "L'utenti spicificatu nun esisti",
-	"edituser-exempt": "L'utenti spicificatu nun po èssiri canciatu",
-	"right-edituser": "Cancia li prifirenzi di l'autri utenti",
-	"right-edituser-exempt": "Li sò prifirenzi nun ponu èssiri canciati da autri"
+	"edituser-desc": "Pirmetti a’ l’utenti cu li pirmissi nicissarî di canciari li prifirenzi di l’autri utenti",
+	"edituser-username": "Nomu utenti:",
+	"edituser-dosearch": "Cerca",
+	"edituser-nouser": "L’utenti «$1» nun esisti.",
+	"edituser-exempt": "L’utenti «$1» nun si po’ canciari.",
+	"right-edituser": "Canciari li prifirenzi di l’autri utenti",
+	"right-edituser-exempt": "L’autri nun ponnu canciari li so prifirenzi"
 }
