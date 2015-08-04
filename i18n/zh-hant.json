@@ -3,12 +3,16 @@
 		"authors": [
 			"Liangent\r",
 			"Mark85296341\r",
-			"Wrightbus\r"
+			"Wrightbus\r",
+			"Liangent",
+			"Liuxinyu970226",
+			"Mark85296341",
+			"Wrightbus"
 		]
 	},
-	"edituser-desc": "允許特許用戶改變其他用戶的個人偏好",
 	"edituser": "編輯使用者",
-	"edituser-username": "用戶名：",
+	"edituser-desc": "允許特許用戶改變其他用戶的個人偏好",
+	"edituser-username": "使用者名稱：",
 	"edituser-dosearch": "搜尋",
 	"edituser-nouser": "用戶 $1 不存在。",
 	"edituser-exempt": "用戶 $1 不能被編輯。",

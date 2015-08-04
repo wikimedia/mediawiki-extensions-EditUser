@@ -3,13 +3,14 @@
 		"authors": [
 			"Melos\r",
 			"Melos",
-			"Pippinu"
+			"Pippinu",
+			"Markos90"
 		]
 	},
 	"edituser": "Cancia utenti",
 	"edituser-desc": "Pirmetti a’ l’utenti cu li pirmissi nicissarî di canciari li prifirenzi di l’autri utenti",
 	"edituser-username": "Nomu utenti:",
-	"edituser-dosearch": "Cerca",
+	"edituser-dosearch": "Arriscedi",
 	"edituser-nouser": "L’utenti «$1» nun esisti.",
 	"edituser-exempt": "L’utenti «$1» nun si po’ canciari.",
 	"right-edituser": "Canciari li prifirenzi di l’autri utenti",
