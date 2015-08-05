@@ -12,6 +12,7 @@
 		]
 	},
 	"edituser": "编辑用户",
+	"extensionname-edituser": "编辑用户",
 	"edituser-desc": "允许特许用户改变其他用户的个人偏好",
 	"edituser-username": "用户名：",
 	"edituser-dosearch": "搜索",

@@ -2,11 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Alma\r",
-			"Toliño\r"
+			"Toliño\r",
+			"Toliño"
 		]
 	},
+	"edituser": "Editar un usuario",
+	"extensionname-edituser": "EditUser",
 	"edituser-desc": "Permitir que usuarios con privilexios poidan editar as preferencias doutros usuarios",
-	"edituser": "Editar Usuario",
 	"edituser-username": "Nome de usuario:",
 	"edituser-dosearch": "Procurar",
 	"edituser-nouser": "O usuario \"$1\" non existe.",

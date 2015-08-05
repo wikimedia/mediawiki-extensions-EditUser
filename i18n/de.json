@@ -5,11 +5,17 @@
 			"MF-Warburg\r",
 			"Raimond Spekking\r",
 			"The Evil IP address\r",
-			"Umherirrender\r"
+			"Umherirrender\r",
+			"Kghbln",
+			"MF-Warburg",
+			"Metalhead64",
+			"The Evil IP address",
+			"Umherirrender"
 		]
 	},
-	"edituser-desc": "Erlaubt berechtigten Benutzern, die Einstellungen anderer Benutzer zu bearbeiten",
 	"edituser": "Benutzer bearbeiten",
+	"extensionname-edituser": "EditUser",
+	"edituser-desc": "Erlaubt berechtigten Benutzern, die Einstellungen anderer Benutzer zu bearbeiten",
 	"edituser-username": "Benutzername:",
 	"edituser-dosearch": "Suchen",
 	"edituser-nouser": "Der Benutzer „$1“ ist nicht vorhanden.",
