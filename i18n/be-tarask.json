@@ -3,11 +3,15 @@
 		"authors": [
 			"EugeneZelenko\r",
 			"Jim-by\r",
-			"Zedlik\r"
+			"Zedlik\r",
+			"Jim-by",
+			"Red Winged Duck",
+			"Zedlik"
 		]
 	},
-	"edituser-desc": "Дазваляе прывілеяваным удзельнікам рэдагаваць налады іншых удзельнікаў",
 	"edituser": "Рэдагаваць удзельніка",
+	"extensionname-edituser": "Рэдагаваньне ўдзельніка",
+	"edituser-desc": "Дазваляе прывілеяваным удзельнікам рэдагаваць налады іншых удзельнікаў",
 	"edituser-username": "Імя ўдзельніка:",
 	"edituser-dosearch": "Шукаць",
 	"edituser-nouser": "Удзельнік «$1» не існуе.",
