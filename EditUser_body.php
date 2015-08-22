@@ -3,14 +3,14 @@
 class EditUser extends SpecialPage {
 
 	function __construct() {
-		parent::__construct('EditUser', 'edituser');
+		parent::__construct( 'EditUser', 'edituser' );
 	}
 
 	function execute( $par ) {
 		$user = $this->getUser();
 		$out = $this->getOutput();
 
-		if( !$user->isAllowed( 'edituser' ) ) {
+		if ( !$user->isAllowed( 'edituser' ) ) {
 			$out->permissionRequired( 'edituser' );
 			return false;
 		}
@@ -19,18 +19,18 @@ class EditUser extends SpecialPage {
 
 		$request = $this->getRequest();
 		$this->target = ( isset( $par ) ) ? $par : $request->getText( 'username', '' );
-		if( $this->target === '' ) {
+		if ( $this->target === '' ) {
 			$out->addHtml( $this->makeSearchForm() );
 			return;
 		}
 		$targetuser = User::NewFromName( $this->target );
-		if( $targetuser->getID() == 0 ) {
+		if ( $targetuser->getID() == 0 ) {
 			$out->addWikiMsg( 'edituser-nouser', htmlspecialchars( $this->target ) );
 			return;
 		}
 		$this->targetuser = $targetuser;
 		#Allow editing self via this interface
-		if( $targetuser->isAllowed( 'edituser-exempt' ) && $targetuser->getName() != $user->getName() ) {
+		if ( $targetuser->isAllowed( 'edituser-exempt' ) && $targetuser->getName() != $user->getName() ) {
 			$out->addWikiMsg( 'edituser-exempt', $targetuser->getName() );
 			return;
 		}
@@ -43,7 +43,7 @@ class EditUser extends SpecialPage {
 			$out->readOnlyPage();
 			return;
 		}
-		
+
 		if ( $request->getCheck( 'reset' ) ) {
 			$this->showResetForm();
 			return;
@@ -61,7 +61,7 @@ class EditUser extends SpecialPage {
 				'savedprefs'
 			);
 		}
-		
+
 		if ( $request->getCheck( 'eauth' ) ) {
 			$out->wrapWikiMsg( "<div class='error' style='clear: both;'>\n$1\n</div>",
 									'eauthentsent', $this->target );
@@ -82,7 +82,7 @@ class EditUser extends SpecialPage {
 
 		$htmlForm->setSubmitText( wfMsg( 'restoreprefs' ) );
 		$htmlForm->addHiddenField( 'username', $this->target );
-		$htmlForm->addHiddenField( 'reset' , '1' );
+		$htmlForm->addHiddenField( 'reset', '1' );
 		$htmlForm->setSubmitCallback( array( $this, 'submitReset' ) );
 		$htmlForm->suppressReset();
 
