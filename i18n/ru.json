@@ -3,11 +3,16 @@
 		"authors": [
 			"Eleferen\r",
 			"Ferrer\r",
-			"Александр Сигачёв\r"
+			"Александр Сигачёв\r",
+			"Eleferen",
+			"Ferrer",
+			"Ghiutun",
+			"Александр Сигачёв"
 		]
 	},
-	"edituser-desc": "Позволяет привилегированным участникам править настройки других участников",
 	"edituser": "Изменить участника",
+	"extensionname-edituser": "EditUser",
+	"edituser-desc": "Позволяет привилегированным участникам править настройки других участников",
 	"edituser-username": "Имя участника:",
 	"edituser-dosearch": "Найти",
 	"edituser-nouser": "Участник «$1» не существует",
