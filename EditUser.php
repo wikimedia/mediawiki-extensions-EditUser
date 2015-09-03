@@ -26,7 +26,6 @@ $wgExtensionMessagesFiles['EditUserAliases'] = __DIR__ . '/EditUser.alias.php';
 $wgAutoloadClasses['EditUser'] = __DIR__ . '/EditUser_body.php';
 $wgAutoloadClasses['EditUserPreferencesForm'] = __DIR__ . '/EditUserPreferencesForm.php';
 $wgSpecialPages['EditUser'] = 'EditUser';
-$wgSpecialPageGroups['EditUser'] = 'users';
 
 // Default group permissions
 $wgAvailableRights[] = 'edituser';

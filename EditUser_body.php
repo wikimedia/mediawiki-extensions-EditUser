@@ -113,4 +113,8 @@ class EditUser extends SpecialPage {
 		);
 		return $form;
 	}
+
+	function getGroupName() {
+		return 'users';
+	}
 }
