@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Rancher\r",
-			"Sasa Stefanovic\r",
-			"Обрадовић Горан\r"
+			"Rancher",
+			"Sasa Stefanovic",
+			"Обрадовић Горан"
 		]
 	},
 	"edituser-desc": "Омогућава привилегованим корисницима да мењају подешавања других корисника",

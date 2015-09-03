@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"SPQRobin\r",
-			"Siebrand\r",
-			"Tvdm\r"
+			"SPQRobin",
+			"Siebrand",
+			"Tvdm"
 		]
 	},
 	"edituser-desc": "Maakt het voor bevoegde gebruikers mogelijk om de voorkeuren van andere gebruikers te bewerken",

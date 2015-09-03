@@ -1,11 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Aleator\r",
-			"BroOk\r",
-			"Jordi Roqué\r",
-			"SMP\r",
-			"Solde\r"
+			"Aleator",
+			"BroOk",
+			"Jordi Roqué",
+			"SMP",
+			"Solde"
 		]
 	},
 	"edituser-desc": "Permet editar les preferències dels altres usuaris als usuaris privilegiats",
