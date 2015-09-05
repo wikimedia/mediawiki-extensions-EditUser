@@ -6,7 +6,8 @@
 			"Raimond Spekking",
 			"Metalhead64",
 			"The Evil IP address",
-			"Umherirrender"
+			"Umherirrender",
+			"J. 'mach' wust"
 		]
 	},
 	"edituser": "Benutzer bearbeiten",
@@ -15,7 +16,7 @@
 	"edituser-username": "Benutzername:",
 	"edituser-dosearch": "Suchen",
 	"edituser-nouser": "Der Benutzer „$1“ ist nicht vorhanden.",
-	"edituser-exempt": "{{GENDER:$1|Der Benutzer|Die Benutzerin|Der Benutzer}} „$1“ kann nicht bearbeitet werden.",
+	"edituser-exempt": "{{GENDER:$1|Der Benutzer|Die Benutzerin}} „$1“ kann nicht bearbeitet werden.",
 	"right-edituser": "Einstellungen anderer Benutzer bearbeiten",
 	"right-edituser-exempt": "Einstellungen können nicht durch Dritte bearbeitet werden"
 }
