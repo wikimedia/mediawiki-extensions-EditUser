@@ -9,7 +9,7 @@
 		]
 	},
 	"edituser": "{{optional}}",
-	"extensionname-edituser": "{{optional}}",
+	"edituser-extensionname": "{{name}}",
 	"edituser-desc": "{{desc|name=EditUser|url=https://www.mediawiki.org/wiki/Extension:EditUser}}",
 	"edituser-username": "{{Identical|Username}}:",
 	"edituser-dosearch": "{{Identical|Search}}",
