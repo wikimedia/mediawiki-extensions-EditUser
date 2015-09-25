@@ -8,7 +8,7 @@
 		]
 	},
 	"edituser": "Изменить участника",
-	"extensionname-edituser": "EditUser",
+	"edituser-extensionname": "EditUser",
 	"edituser-desc": "Позволяет привилегированным участникам править настройки других участников",
 	"edituser-username": "Имя участника:",
 	"edituser-dosearch": "Найти",

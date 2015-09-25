@@ -5,7 +5,7 @@
 		]
 	},
 	"edituser": "Уреди го корисникот",
-	"extensionname-edituser": "Уредување на корисник",
+	"edituser-extensionname": "Уредување на корисник",
 	"edituser-desc": "Им овозможува на привилегираните корисници да ги уредуваат нагодувањата на други корисници.",
 	"edituser-username": "Корисничко име:",
 	"edituser-dosearch": "Пребарај",

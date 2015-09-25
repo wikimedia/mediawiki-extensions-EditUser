@@ -11,7 +11,7 @@
 		]
 	},
 	"edituser": "Benutzer bearbeiten",
-	"extensionname-edituser": "EditUser",
+	"edituser-extensionname": "EditUser",
 	"edituser-desc": "Erlaubt berechtigten Benutzern, die Einstellungen anderer Benutzer zu bearbeiten",
 	"edituser-username": "Benutzername:",
 	"edituser-dosearch": "Suchen",

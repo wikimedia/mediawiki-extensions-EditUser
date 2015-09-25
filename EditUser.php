@@ -11,7 +11,7 @@ if ( !defined( 'MEDIAWIKI' ) ) {
 $wgExtensionCredits['specialpage'][] = array(
 	'path'           => __FILE__,
 	'name'           => 'EditUser',
-	'namemsg'        => 'extensionname-edituser',
+	'namemsg'        => 'edituser-extensionname',
 	'version'        => '1.8.0',
 	'author'         => 'Ryan Schmidt',
 	'descriptionmsg' => 'edituser-desc',

@@ -5,7 +5,7 @@
 		]
 	},
 	"edituser": "Editar usuariu",
-	"extensionname-edituser": "EditUser",
+	"edituser-extensionname": "EditUser",
 	"edituser-desc": "Permite que los usuarios col privilexu editen les preferencies d'otru usuariu",
 	"edituser-username": "Nome d'usuariu:",
 	"edituser-dosearch": "Guetar",

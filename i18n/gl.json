@@ -6,7 +6,7 @@
 		]
 	},
 	"edituser": "Editar un usuario",
-	"extensionname-edituser": "EditUser",
+	"edituser-extensionname": "EditUser",
 	"edituser-desc": "Permitir que usuarios con privilexios poidan editar as preferencias doutros usuarios",
 	"edituser-username": "Nome de usuario:",
 	"edituser-dosearch": "Procurar",

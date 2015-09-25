@@ -11,7 +11,7 @@
 		]
 	},
 	"edituser": "Modifier l'utilisateur",
-	"extensionname-edituser": "EditUser",
+	"edituser-extensionname": "EditUser",
 	"edituser-desc": "Permet aux utilisateurs disposant de certains privilèges de modifier les préférences des autres utilisateurs",
 	"edituser-username": "Nom d’utilisateur :",
 	"edituser-dosearch": "Rechercher",
