@@ -29,7 +29,7 @@ class EditUser extends SpecialPage {
 			return;
 		}
 		$this->targetuser = $targetuser;
-		#Allow editing self via this interface
+		# Allow editing self via this interface
 		if ( $targetuser->isAllowed( 'edituser-exempt' ) && $targetuser->getName() != $user->getName() ) {
 			$out->addWikiMsg( 'edituser-exempt', $targetuser->getName() );
 			return;
@@ -37,7 +37,7 @@ class EditUser extends SpecialPage {
 
 		$this->setHeaders();
 		$this->outputHeader();
-		$out->disallowUserJs();  # Prevent hijacked user scripts from sniffing passwords etc.
+		$out->disallowUserJs(); # Prevent hijacked user scripts from sniffing passwords etc.
 
 		if ( wfReadOnly() ) {
 			$out->readOnlyPage();
@@ -51,9 +51,9 @@ class EditUser extends SpecialPage {
 
 		$out->addModules( 'mediawiki.special.preferences' );
 
-		//$this->loadGlobals( $this->target );
+		// $this->loadGlobals( $this->target );
 		$out->addHtml( $this->makeSearchForm() . '<br />' );
-		#End EditUser additions
+		# End EditUser additions
 
 		if ( $request->getCheck( 'success' ) ) {
 			$out->wrapWikiMsg(
