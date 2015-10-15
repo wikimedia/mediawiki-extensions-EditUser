@@ -5,8 +5,8 @@
 			"Игорь Бродский"
 		]
 	},
-	"edituser-desc": "Laskeb priviligiruidud ühtnijoile koheta toižiden ühtnijoiden järgendused.",
 	"edituser": "Redaktiruida kävutajad",
+	"edituser-desc": "Laskeb priviligiruidud ühtnijoile koheta toižiden ühtnijoiden järgendused.",
 	"edituser-username": "Kävutajan nimi:",
 	"edituser-dosearch": "Ectä",
 	"edituser-nouser": "Ei ole mugošt kävutajad: \"$1\".",

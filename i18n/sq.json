@@ -4,8 +4,8 @@
 			"Puntori"
 		]
 	},
-	"edituser-desc": "Lejon që përdoruesit me privilegje të ndryshojnë parapëlqimet e përdoruesve tjerë",
 	"edituser": "Redakto përdoruesin",
+	"edituser-desc": "Lejon që përdoruesit me privilegje të ndryshojnë parapëlqimet e përdoruesve tjerë",
 	"edituser-username": "Emri",
 	"edituser-dosearch": "Kërko",
 	"edituser-nouser": "Përdoruesi i zgjedhur nuk ekziston",

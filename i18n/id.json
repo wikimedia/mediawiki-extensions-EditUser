@@ -7,8 +7,8 @@
 			"Rex"
 		]
 	},
-	"edituser-desc": "Mengijinkan pengguna yang berhak untuk menyunting preferensi pengguna lain",
 	"edituser": "Sunting pengguna",
+	"edituser-desc": "Mengijinkan pengguna yang berhak untuk menyunting preferensi pengguna lain",
 	"edituser-username": "Nama pengguna:",
 	"edituser-dosearch": "Cari",
 	"edituser-nouser": "Pengguna \"$1\" tidak dapat ditemukan.",

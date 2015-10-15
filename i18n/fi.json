@@ -9,8 +9,8 @@
 			"ZeiP"
 		]
 	},
-	"edituser-desc": "Mahdollistaa oikeutettujen käyttäjien muokata toisten käyttäjien asetuksia.",
 	"edituser": "Muokkaa käyttäjää",
+	"edituser-desc": "Mahdollistaa oikeutettujen käyttäjien muokata toisten käyttäjien asetuksia.",
 	"edituser-username": "Käyttäjätunnus:",
 	"edituser-dosearch": "Hae",
 	"edituser-nouser": "Käyttäjää ”$1” ei ole olemassa.",

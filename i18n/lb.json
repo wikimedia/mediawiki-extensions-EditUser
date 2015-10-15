@@ -4,8 +4,8 @@
 			"Robby"
 		]
 	},
-	"edituser-desc": "Erlaabt et Benotzer déi gewësse Rechter hunn anere Benotzer hir Astellungen z'änneren",
 	"edituser": "Benotzer änneren",
+	"edituser-desc": "Erlaabt et Benotzer déi gewësse Rechter hunn anere Benotzer hir Astellungen z'änneren",
 	"edituser-username": "Benotzernumm:",
 	"edituser-dosearch": "Sichen",
 	"edituser-nouser": "De Benotzer ''$1'' gëtt et net.",

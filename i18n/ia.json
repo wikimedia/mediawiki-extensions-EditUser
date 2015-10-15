@@ -4,8 +4,8 @@
 			"McDutchie"
 		]
 	},
-	"edituser-desc": "Permitte que usatores con le privilegio requisite modifica le preferentias de altere usatores",
 	"edituser": "Modificar usator",
+	"edituser-desc": "Permitte que usatores con le privilegio requisite modifica le preferentias de altere usatores",
 	"edituser-username": "Nomine de usator:",
 	"edituser-dosearch": "Cercar",
 	"edituser-nouser": "Le usator \"$1\" non existe.",

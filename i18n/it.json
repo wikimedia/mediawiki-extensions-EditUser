@@ -6,8 +6,8 @@
 			"Pinodd"
 		]
 	},
-	"edituser-desc": "Permette agli utenti con i privilegi necessari di modificare le preferenze di altri utenti",
 	"edituser": "Modifica utente",
+	"edituser-desc": "Permette agli utenti con i privilegi necessari di modificare le preferenze di altri utenti",
 	"edituser-username": "Nome utente:",
 	"edituser-dosearch": "Ricerca",
 	"edituser-nouser": "L'utente \"$1\" non esiste.",

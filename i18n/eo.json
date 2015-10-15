@@ -5,8 +5,8 @@
 			"Yekrats"
 		]
 	},
-	"edituser-desc": "Rajtigas privilegiitaj uzantoj redakti preferojn de aliaj uzantoj",
 	"edituser": "Redakti Uzanton",
+	"edituser-desc": "Rajtigas privilegiitaj uzantoj redakti preferojn de aliaj uzantoj",
 	"edituser-username": "Salutnomo:",
 	"edituser-dosearch": "Serĉi",
 	"edituser-nouser": "La uzanto \"$1\" ne ekzistas.",

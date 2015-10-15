@@ -5,8 +5,8 @@
 			"Misibacsi"
 		]
 	},
-	"edituser-desc": "A megfelelő joggal rendelkező szerkesztők számára lehetővé teszi más szerkesztők beállításainak módosítását",
 	"edituser": "Szerkesztő módosítása",
+	"edituser-desc": "A megfelelő joggal rendelkező szerkesztők számára lehetővé teszi más szerkesztők beállításainak módosítását",
 	"edituser-username": "Felhasználói név:",
 	"edituser-dosearch": "Keresés",
 	"edituser-nouser": "A kiválasztott szerkesztő ($1) nem létezik",

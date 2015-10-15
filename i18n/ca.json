@@ -8,8 +8,8 @@
 			"Solde"
 		]
 	},
-	"edituser-desc": "Permet editar les preferències dels altres usuaris als usuaris privilegiats",
 	"edituser": "Edita l'usuari",
+	"edituser-desc": "Permet editar les preferències dels altres usuaris als usuaris privilegiats",
 	"edituser-username": "Nom d'usuari:",
 	"edituser-dosearch": "Cerca",
 	"edituser-nouser": "L'usuari \"$1\" no existeix.",

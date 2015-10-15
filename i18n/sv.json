@@ -8,8 +8,8 @@
 			"Nghtwlkr"
 		]
 	},
-	"edituser-desc": "Gör det möjligt för användare med viss behörighet att ändra andra användares inställningar",
 	"edituser": "Redigera användare",
+	"edituser-desc": "Gör det möjligt för användare med viss behörighet att ändra andra användares inställningar",
 	"edituser-username": "Användarnamn:",
 	"edituser-dosearch": "Sök",
 	"edituser-nouser": "Användaren «$1» finns inte.",

@@ -4,8 +4,8 @@
 			"Cedric31"
 		]
 	},
-	"edituser-desc": "Permet als utilizaires dispausant de cèrts privilègis d'editar las preferéncias dels autres utilizaires.",
 	"edituser": "Editar l'utilizaire",
+	"edituser-desc": "Permet als utilizaires dispausant de cèrts privilègis d'editar las preferéncias dels autres utilizaires.",
 	"edituser-username": "Nom",
 	"edituser-dosearch": "Recercar",
 	"edituser-nouser": "L'utilizaire especificat existís pas",

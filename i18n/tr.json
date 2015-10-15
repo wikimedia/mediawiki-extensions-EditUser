@@ -6,8 +6,8 @@
 			"Vito Genovese"
 		]
 	},
-	"edituser-desc": "Ayrıcalıklı kullanıcıların diğer kullanıcıların tercihlerini değiştirmesini mümkün kılar",
 	"edituser": "Kullanıcıyı düzenle",
+	"edituser-desc": "Ayrıcalıklı kullanıcıların diğer kullanıcıların tercihlerini değiştirmesini mümkün kılar",
 	"edituser-username": "Kullanıcı adı:",
 	"edituser-dosearch": "Ara",
 	"edituser-nouser": "\"$1\" kullanıcısı mevcut değil.",

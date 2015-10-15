@@ -5,8 +5,8 @@
 			"Dragonòt"
 		]
 	},
-	"edituser-desc": "A përmëtt a utent privilegià ëd modifiché ij \"mè gust\" ëd j'àutr utent",
 	"edituser": "Modìfica utent",
+	"edituser-desc": "A përmëtt a utent privilegià ëd modifiché ij \"mè gust\" ëd j'àutr utent",
 	"edituser-username": "Stranòm:",
 	"edituser-dosearch": "Serca",
 	"edituser-nouser": "L'utent \"$1\" a esist pa.",

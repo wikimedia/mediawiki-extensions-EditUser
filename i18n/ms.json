@@ -4,8 +4,8 @@
 			"Anakmalaysia"
 		]
 	},
-	"edituser-desc": "Membolehkan pengguna istimewa menyunting keutamaan pengguna lain",
 	"edituser": "Sunting pengguna",
+	"edituser-desc": "Membolehkan pengguna istimewa menyunting keutamaan pengguna lain",
 	"edituser-username": "Nama pengguna:",
 	"edituser-dosearch": "Cari",
 	"edituser-nouser": "Pengguna \"$1\" tidak wujud.",

@@ -6,8 +6,8 @@
 			"SpeedyGonsales"
 		]
 	},
-	"edituser-desc": "Omogućava suradnicima s pripadajućim pravom uređivanje postavki drugih suradnika",
 	"edituser": "Uredi suradnika",
+	"edituser-desc": "Omogućava suradnicima s pripadajućim pravom uređivanje postavki drugih suradnika",
 	"edituser-username": "Suradničko ime:",
 	"edituser-dosearch": "Traži",
 	"edituser-nouser": "Suradnik \"$1\" ne postoji.",

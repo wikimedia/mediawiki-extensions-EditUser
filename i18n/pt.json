@@ -4,11 +4,12 @@
 			"Hamilton Abreu",
 			"Lijealso",
 			"Malafaya",
-			"Waldir"
+			"Waldir",
+			"Vitorvicentevalente"
 		]
 	},
-	"edituser-desc": "Permite que utilizadores com privilégios editem as preferências de outros utilizadores",
 	"edituser": "Editar Utilizador",
+	"edituser-desc": "Permite que utilizadores com privilégios editem as preferências de outros utilizadores",
 	"edituser-username": "Utilizador:",
 	"edituser-dosearch": "Pesquisar",
 	"edituser-nouser": "O utilizador \"$1\" não existe.",

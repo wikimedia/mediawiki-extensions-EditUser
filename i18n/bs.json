@@ -4,8 +4,8 @@
 			"CERminator"
 		]
 	},
-	"edituser-desc": "Omogućuje korisnicima sa privilegijama da uređuju postavke drugih korisnika",
 	"edituser": "Uređivanje korisnika",
+	"edituser-desc": "Omogućuje korisnicima sa privilegijama da uređuju postavke drugih korisnika",
 	"edituser-username": "Korisničko ime:",
 	"edituser-dosearch": "Traži",
 	"edituser-nouser": "Korisnik \"$1\" ne postoji.",

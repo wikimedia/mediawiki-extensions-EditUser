@@ -4,8 +4,8 @@
 			"Helix84"
 		]
 	},
-	"edituser-desc": "Umožňuje oprávneným používateľom upravovať nastavenia ostatných používateľov",
 	"edituser": "Upraviť používateľa",
+	"edituser-desc": "Umožňuje oprávneným používateľom upravovať nastavenia ostatných používateľov",
 	"edituser-username": "Meno",
 	"edituser-dosearch": "Hľadať",
 	"edituser-nouser": "Uvedený používateľ neexistuje",

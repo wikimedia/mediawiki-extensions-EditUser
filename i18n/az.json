@@ -4,8 +4,8 @@
 			"Sortilegus"
 		]
 	},
-	"edituser-desc": "İmtiyazlı istifadəçilərə digər istifadəçilərin nizamlamalarını redaktə etmək imkanı verir",
 	"edituser": "İstifadəçini dəyiş",
+	"edituser-desc": "İmtiyazlı istifadəçilərə digər istifadəçilərin nizamlamalarını redaktə etmək imkanı verir",
 	"edituser-username": "İstifadəçi adı:",
 	"edituser-dosearch": "Axtar",
 	"edituser-nouser": "İstifadəçi \"$1\" mövcud deyil",

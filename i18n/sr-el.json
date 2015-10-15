@@ -4,8 +4,8 @@
 			"Michaello"
 		]
 	},
-	"edituser-desc": "Omogućava privilegovanim korisnicima da menjaju podešavanja drugih korisnika",
 	"edituser": "Izmeni korisnika",
+	"edituser-desc": "Omogućava privilegovanim korisnicima da menjaju podešavanja drugih korisnika",
 	"edituser-username": "Korisničko ime:",
 	"edituser-dosearch": "Pretraga",
 	"edituser-nouser": "Korisnik „$1“ ne postoji.",

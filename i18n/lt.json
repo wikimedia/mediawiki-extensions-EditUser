@@ -6,8 +6,8 @@
 			"Tomasdd"
 		]
 	},
-	"edituser-desc": "Privilegijuotiems naudotojams leidžiama redaguoti kitų naudotojų nustatymus",
 	"edituser": "Redaguoti naudotoją",
+	"edituser-desc": "Privilegijuotiems naudotojams leidžiama redaguoti kitų naudotojų nustatymus",
 	"edituser-username": "Naudotojo vardas:",
 	"edituser-dosearch": "Ieškoti",
 	"edituser-nouser": "Vartotojas \"$1\" neegzistuoja.",

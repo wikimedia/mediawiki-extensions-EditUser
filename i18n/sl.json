@@ -4,8 +4,8 @@
 			"Dbc334"
 		]
 	},
-	"edituser-desc": "Omogoča upravičenim uporabnikom urejati nastavitve drugih uporabnikov",
 	"edituser": "Uredi uporabnika",
+	"edituser-desc": "Omogoča upravičenim uporabnikom urejati nastavitve drugih uporabnikov",
 	"edituser-username": "Uporabniško ime:",
 	"edituser-dosearch": "Iskanje",
 	"edituser-nouser": "Uporabnik »$1« ne obstaja.",

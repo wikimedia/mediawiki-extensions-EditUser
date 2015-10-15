@@ -6,8 +6,8 @@
 			"YaronSh"
 		]
 	},
-	"edituser-desc": "אפשרות למשתמשים מורשים לערוך העדפות של משתמשים אחרים",
 	"edituser": "עריכת משתמש",
+	"edituser-desc": "אפשרות למשתמשים מורשים לערוך העדפות של משתמשים אחרים",
 	"edituser-username": "שם משתמש:",
 	"edituser-dosearch": "חיפוש",
 	"edituser-nouser": "המשתמש \"$1\" אינו קיים.",

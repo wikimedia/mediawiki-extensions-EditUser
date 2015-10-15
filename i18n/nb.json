@@ -4,8 +4,8 @@
 			"Nghtwlkr"
 		]
 	},
-	"edituser-desc": "Lar priviligerte brukere redigere andre brukeres innstillinger",
 	"edituser": "Rediger bruker",
+	"edituser-desc": "Lar priviligerte brukere redigere andre brukeres innstillinger",
 	"edituser-username": "Brukernavn:",
 	"edituser-dosearch": "Søk",
 	"edituser-nouser": "Brukeren «$1» finnes ikke.",

@@ -6,8 +6,8 @@
 			"Tvdm"
 		]
 	},
-	"edituser-desc": "Maakt het voor bevoegde gebruikers mogelijk om de voorkeuren van andere gebruikers te bewerken",
 	"edituser": "Gebruiker bewerken",
+	"edituser-desc": "Maakt het voor bevoegde gebruikers mogelijk om de voorkeuren van andere gebruikers te bewerken",
 	"edituser-username": "Gebruikersnaam:",
 	"edituser-dosearch": "Zoeken",
 	"edituser-nouser": "De gebruiker \"$1\" bestaat niet.",

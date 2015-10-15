@@ -7,8 +7,8 @@
 			"Njardarlogar"
 		]
 	},
-	"edituser-desc": "Lar priviligerte brukarar endra andre brukarar sine instillingar",
 	"edituser": "Endra brukar",
+	"edituser-desc": "Lar priviligerte brukarar endra andre brukarar sine instillingar",
 	"edituser-username": "Brukarnamn:",
 	"edituser-dosearch": "Søk",
 	"edituser-nouser": "Brukaren «$1» finst ikkje.",
