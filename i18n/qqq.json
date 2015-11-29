@@ -16,5 +16,7 @@
 	"edituser-nouser": "Used for saying that the user does not exist.",
 	"edituser-exempt": "Used for saying the user cannot be edited.",
 	"right-edituser": "{{doc-right|edituser}}",
-	"right-edituser-exempt": "{{doc-right|edituser-exempt}}"
+	"right-edituser-exempt": "{{doc-right|edituser-exempt}}",
+	"action-edituser": "{{doc-action|edituser}}",
+	"action-edituser-exempt": "{{doc-action|edituser-exempt}}"
 }
