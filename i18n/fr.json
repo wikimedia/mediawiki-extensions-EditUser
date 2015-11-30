@@ -7,7 +7,8 @@
 			"Grondin",
 			"Peter17",
 			"PieRRoMaN",
-			"VictorBrice"
+			"VictorBrice",
+			"Gomoko"
 		]
 	},
 	"edituser": "Modifier l'utilisateur",
@@ -18,5 +19,7 @@
 	"edituser-nouser": "L'utilisateur « $1 » n'existe pas.",
 	"edituser-exempt": "L'utilisateur « $1 » ne peut pas être modifié.",
 	"right-edituser": "Modifie les préférences des autres utilisateurs",
-	"right-edituser-exempt": "Les préférences de cet utilisateur ne sont pas modifiables par les autres"
+	"right-edituser-exempt": "Les préférences de cet utilisateur ne sont pas modifiables par les autres",
+	"action-edituser": "modifier les préférences des autres utilisateurs",
+	"action-edituser-exempt": "les autres ne peuvent pas modifier les préférences de cet utilisateur"
 }

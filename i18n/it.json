@@ -13,5 +13,6 @@
 	"edituser-nouser": "L'utente \"$1\" non esiste.",
 	"edituser-exempt": "L'utente \"$1\" non può essere modificato.",
 	"right-edituser": "Modifica le preferenze degli altri utenti",
-	"right-edituser-exempt": "Le sue preferenze non possono essere modificate da altri"
+	"right-edituser-exempt": "Le sue preferenze non possono essere modificate da altri",
+	"action-edituser": "modificare le preferenze degli altri utenti"
 }

@@ -3,7 +3,8 @@
 		"authors": [
 			"Karduelis",
 			"Manco Capac",
-			"Vito Genovese"
+			"Vito Genovese",
+			"Sayginer"
 		]
 	},
 	"edituser": "Kullanıcıyı düzenle",
@@ -13,5 +14,7 @@
 	"edituser-nouser": "\"$1\" kullanıcısı mevcut değil.",
 	"edituser-exempt": "\"$1\" kullanıcısı düzenlenemiyor.",
 	"right-edituser": "Diğer kullanıcıların tercihlerini düzenler",
-	"right-edituser-exempt": "Başkaları bu kullanıcının tercihlerini düzenleyemez"
+	"right-edituser-exempt": "Başkaları bu kullanıcının tercihlerini düzenleyemez",
+	"action-edituser": "diğer kullanıcıların tercihlerini düzenle",
+	"action-edituser-exempt": "Bu kullanıcının tercihlerini, diğer kullanıcılar değiştiremez"
 }
