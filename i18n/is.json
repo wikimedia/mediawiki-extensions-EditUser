@@ -1,5 +1,9 @@
 {
-	"@metadata": [],
-	"edituser-username": "Nafn",
+	"@metadata": {
+		"authors": [
+			"Snævar"
+		]
+	},
+	"edituser-username": "Notandanafn:",
 	"edituser-dosearch": "Leita"
 }
