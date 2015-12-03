@@ -3,7 +3,8 @@
 		"authors": [
 			"Htt",
 			"Kaajawa",
-			"Kaustubh"
+			"Kaustubh",
+			"V.narsikar"
 		]
 	},
 	"edituser": "सदस्य संपादित करा",
@@ -13,5 +14,7 @@
 	"edituser-nouser": "सदस्य \"$1\" अस्तित्वात नाही.",
 	"edituser-exempt": "दिलेला सदस्य संपादित करू शकत नाही",
 	"right-edituser": "इतर सदस्यांच्या आवडी-निवडी बदला",
-	"right-edituser-exempt": "इतर लोक या सदस्याच्या आवडी-निवडी बदलवू शकत नाहीत."
+	"right-edituser-exempt": "इतर लोक या सदस्याच्या आवडी-निवडी बदलवू शकत नाहीत.",
+	"action-edituser": "दुसऱ्या सदस्यांचा पसंतीक्रम संपादा",
+	"action-edituser-exempt": "या सदस्याचा पसंतीक्रम दुसरे संपादु शकत नाहीत"
 }

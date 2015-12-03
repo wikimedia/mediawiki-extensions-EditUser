@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Alma",
-			"Toliño"
+			"Toliño",
+			"Elisardojm"
 		]
 	},
 	"edituser": "Editar un usuario",
@@ -13,5 +14,7 @@
 	"edituser-nouser": "O usuario \"$1\" non existe.",
 	"edituser-exempt": "O usuario \"$1\" non pode ser editado.",
 	"right-edituser": "Editar as preferencias doutros usuarios",
-	"right-edituser-exempt": "As súas preferencias non poden ser editadas por outros"
+	"right-edituser-exempt": "As súas preferencias non poden ser editadas por outros",
+	"action-edituser": "editar as preferencias doutros usuarios",
+	"action-edituser-exempt": "outros non poden editar as preferencias deste usuario"
 }
