@@ -15,5 +15,6 @@
 	"edituser-nouser": "O utilizador \"$1\" não existe.",
 	"edituser-exempt": "O utilizador \"$1\" não pode ser editado.",
 	"right-edituser": "Editar as preferências de outros utilizadores",
-	"right-edituser-exempt": "Não podem ter as suas preferências editadas por outros"
+	"right-edituser-exempt": "Não podem ter as suas preferências editadas por outros",
+	"action-edituser": "editar as preferências de outros utilizadores"
 }
