@@ -32,6 +32,10 @@ class EditUser extends SpecialPage {
 		parent::__construct( 'EditUser', 'edituser' );
 	}
 
+	public function doesWrites() {
+		return true;
+	}
+
 	public function execute( $par ) {
 		$user = $this->getUser();
 		$out = $this->getOutput();
