@@ -4,5 +4,8 @@
 			"Asoxor"
 		]
 	},
-	"edituser-dosearch": "بگەڕێ"
+	"edituser-username": "ناوی بەکارھێنەر:",
+	"edituser-dosearch": "بگەڕێ",
+	"edituser-nouser": "بەکارھێنەر «$1» بوونی نییە.",
+	"edituser-exempt": "بەکارھێنەر «$1» دەستکاری ناکرێت."
 }
