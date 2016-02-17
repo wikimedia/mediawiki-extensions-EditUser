@@ -2,9 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Chaojoker",
-			"Togaed"
+			"Togaed",
+			"Աշոտ1997"
 		]
 	},
 	"edituser-username": "Մասնակցի անուն՝",
-	"edituser-dosearch": "Որոնել"
+	"edituser-dosearch": "Որոնել",
+	"edituser-nouser": "\"$1\" մասնակիցը գոյություն չունի",
+	"right-edituser": "Խմբագրել այլ մասնակիցների նախընտրությունները"
 }
