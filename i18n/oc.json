@@ -7,7 +7,7 @@
 	},
 	"edituser": "Editar l'utilizaire",
 	"edituser-desc": "Permet als utilizaires dispausant de cèrts privilègis d'editar las preferéncias dels autres utilizaires.",
-	"edituser-username": "Nom d'utilizaire:",
+	"edituser-username": "Nom d'utilizaire :",
 	"edituser-dosearch": "Recercar",
 	"edituser-nouser": "L'utilizaire « $1 » existís pas.",
 	"edituser-exempt": "L'utilizaire especificat pòt pas èsser modificat",
