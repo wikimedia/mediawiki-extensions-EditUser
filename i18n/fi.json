@@ -6,7 +6,8 @@
 			"Mobe",
 			"Nike",
 			"Olli",
-			"ZeiP"
+			"ZeiP",
+			"01miki10"
 		]
 	},
 	"edituser": "Muokkaa käyttäjää",
@@ -16,5 +17,7 @@
 	"edituser-nouser": "Käyttäjää ”$1” ei ole olemassa.",
 	"edituser-exempt": "Käyttäjää ”$1” ei voi muokata.",
 	"right-edituser": "Muokata muiden käyttäjien asetuksia",
-	"right-edituser-exempt": "Muut eivät voi muokata tämän käyttäjän asetuksia."
+	"right-edituser-exempt": "Muut eivät voi muokata tämän käyttäjän asetuksia.",
+	"action-edituser": "muokata muiden käyttäjien asetuksia",
+	"action-edituser-exempt": "muut eivät voi muokata tämän käyttäjiena asetuksia"
 }
