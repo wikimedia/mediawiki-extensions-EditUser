@@ -3,7 +3,8 @@
 		"authors": [
 			"Rotemliss",
 			"StuB",
-			"YaronSh"
+			"YaronSh",
+			"Guycn2"
 		]
 	},
 	"edituser": "עריכת משתמש",
@@ -13,5 +14,7 @@
 	"edituser-nouser": "המשתמש \"$1\" אינו קיים.",
 	"edituser-exempt": "לא ניתן לערוך את המשתמש \"$1\".",
 	"right-edituser": "עריכת ההעדפות של משתמשים אחרים",
-	"right-edituser-exempt": "העדפותיהם לא ניתנות לשינוי על ידי אחרים"
+	"right-edituser-exempt": "העדפותיהם לא ניתנות לשינוי על ידי אחרים",
+	"action-edituser": "עריכת ההעדפות של משתמשים אחרים",
+	"action-edituser-exempt": "משתמשים אחרים לא יכולים לשנות את ההעדפות של המשתמש הזה"
 }
