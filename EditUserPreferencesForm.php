@@ -2,23 +2,23 @@
 
 class EditUserPreferencesForm extends PreferencesForm {
 	public function getExtraSuccessRedirectParameters() {
-		return array( 'username' => $this->getModifiedUser()->getName() );
+		return [ 'username' => $this->getModifiedUser()->getName() ];
 	}
 
 	function getButtons() {
-		$attrs = array( 'id' => 'mw-prefs-restoreprefs' );
+		$attrs = [ 'id' => 'mw-prefs-restoreprefs' ];
 
 		$html = HTMLForm::getButtons();
 
 		$url = SpecialPage::getTitleFor( 'EditUser' )->getFullURL(
-			array( 'reset' => 1, 'username' => $this->getModifiedUser()->getName() )
+			[ 'reset' => 1, 'username' => $this->getModifiedUser()->getName() ]
 		);
 
-		$html .= "\n" . Xml::element( 'a', array( 'href'=> $url ),
+		$html .= "\n" . Xml::element( 'a', [ 'href'=> $url ],
 			$this->msg( 'restoreprefs' )->escaped(),
-				Html::buttonAttributes( $attrs, array( 'mw-ui-quiet' ) ) );
+				Html::buttonAttributes( $attrs, [ 'mw-ui-quiet' ] ) );
 
-		$html = Xml::tags( 'div', array( 'class' => 'mw-prefs-buttons' ), $html );
+		$html = Xml::tags( 'div', [ 'class' => 'mw-prefs-buttons' ], $html );
 
 		return $html;
 	}

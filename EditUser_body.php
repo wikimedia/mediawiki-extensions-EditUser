@@ -87,11 +87,11 @@ class EditUser extends SpecialPage {
 			$out->wrapWikiMsg(
 				Html::rawElement(
 					'div',
-					array(
+					[
 						'class' => 'mw-preferences-messagebox successbox',
 						'id' => 'mw-preferences-success'
-					),
-					Html::element( 'p', array(), '$1' )
+					],
+					Html::element( 'p', [], '$1' )
 				),
 				'savedprefs'
 			);
@@ -101,11 +101,11 @@ class EditUser extends SpecialPage {
 			$out->wrapWikiMsg(
 				Html::rawElement(
 					'div',
-					array(
+					[
 						'class' => 'error',
 						'style' => 'clear: both;'
-					),
-					Html::element( 'p', array(), '$1' )
+					],
+					Html::element( 'p', [], '$1' )
 				),
 				'eauthentsent',
 				$this->target
@@ -115,7 +115,7 @@ class EditUser extends SpecialPage {
 		$this->addHelpLink( 'Help:Preferences' );
 
 		$htmlForm = Preferences::getFormObject( $targetuser, $this->getContext(),
-			'EditUserPreferencesForm', array( 'password' ) );
+			'EditUserPreferencesForm', [ 'password' ] );
 		$htmlForm->setSubmitCallback( 'Preferences::tryUISubmit' );
 		$htmlForm->addHiddenField( 'username', $this->target );
 
@@ -133,12 +133,12 @@ class EditUser extends SpecialPage {
 
 		$this->getOutput()->addWikiMsg( 'prefs-reset-intro' );
 
-		$htmlForm = new HTMLForm( array(), $this->getContext(), 'prefs-restore' );
+		$htmlForm = new HTMLForm( [], $this->getContext(), 'prefs-restore' );
 
 		$htmlForm->setSubmitTextMsg( 'restoreprefs' );
 		$htmlForm->addHiddenField( 'username', $this->target );
 		$htmlForm->addHiddenField( 'reset', '1' );
-		$htmlForm->setSubmitCallback( array( $this, 'submitReset' ) );
+		$htmlForm->setSubmitCallback( [ $this, 'submitReset' ] );
 		$htmlForm->suppressReset();
 
 		$htmlForm->show();
@@ -156,7 +156,7 @@ class EditUser extends SpecialPage {
 		$this->targetuser->resetOptions( 'all', $this->getContext() );
 		$this->targetuser->saveSettings();
 
-		$url = $this->getTitle()->getFullURL( array( 'success' => 1, 'username' => $this->target ) );
+		$url = $this->getTitle()->getFullURL( [ 'success' => 1, 'username' => $this->target ] );
 
 		$this->getOutput()->redirect( $url );
 
@@ -166,11 +166,11 @@ class EditUser extends SpecialPage {
 	public function makeSearchForm() {
 		global $wgScript;
 
-		$fields = array();
+		$fields = [];
 		$fields['edituser-username'] = Html::input( 'username', $this->target );
 
 		$thisTitle = $this->getTitle();
-		$form = Html::rawElement( 'form', array( 'method' => 'get', 'action' => $wgScript ),
+		$form = Html::rawElement( 'form', [ 'method' => 'get', 'action' => $wgScript ],
 			Html::hidden( 'title', $this->getTitle()->getPrefixedDBkey() ) .
 			Xml::buildForm( $fields, 'edituser-dosearch' )
 		);
