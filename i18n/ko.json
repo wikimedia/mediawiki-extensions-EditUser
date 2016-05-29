@@ -14,5 +14,6 @@
 	"edituser-exempt": "\"$1\" 사용자는 편집할 수 없습니다.",
 	"right-edituser": "다른 사용자의 환경 설정을 편집",
 	"right-edituser-exempt": "다른 사용자가 이 사용자의 환경 설정을 바꿀 수 없게 함",
-	"action-edituser": "다른 사용자의 환경 설정을 조작할"
+	"action-edituser": "다른 사용자의 환경 설정을 조작할",
+	"action-edituser-exempt": "다른 사람이 이 사용자의 환경 설정을 편집하지 못하게 할"
 }
