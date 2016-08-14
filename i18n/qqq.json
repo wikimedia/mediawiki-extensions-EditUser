@@ -5,13 +5,14 @@
 			"Purodha",
 			"Raymond",
 			"The Evil IP address",
-			"Umherirrender"
+			"Umherirrender",
+			"Liuxinyu970226"
 		]
 	},
 	"edituser": "{{optional}}",
 	"edituser-extensionname": "{{name}}",
 	"edituser-desc": "{{desc|name=EditUser|url=https://www.mediawiki.org/wiki/Extension:EditUser}}",
-	"edituser-username": "{{Identical|Username}}:",
+	"edituser-username": "{{Identical|Username}}",
 	"edituser-dosearch": "{{Identical|Search}}",
 	"edituser-nouser": "Used for saying that the user does not exist.",
 	"edituser-exempt": "Used for saying the user cannot be edited.",
