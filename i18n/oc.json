@@ -10,7 +10,7 @@
 	"edituser-username": "Nom d'utilizaire :",
 	"edituser-dosearch": "Recercar",
 	"edituser-nouser": "L'utilizaire « $1 » existís pas.",
-	"edituser-exempt": "L'utilizaire especificat pòt pas èsser modificat",
+	"edituser-exempt": "L'utilizaire  « $1 » pòt pas èsser modificat.",
 	"right-edituser": "Modifica las preferéncias dels autres utilizaires",
 	"right-edituser-exempt": "Pòt pas obténer lors preferéncias modificadas pels autres"
 }
