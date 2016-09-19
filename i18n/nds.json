@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Slomox"
+			"Slomox",
+			"Joachim Mos"
 		]
 	},
 	"edituser": "Bruker ännern",
-	"edituser-username": "Naam",
+	"edituser-username": "Brukernaam:",
 	"edituser-dosearch": "Söken"
 }
