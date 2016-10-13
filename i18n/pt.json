@@ -8,13 +8,14 @@
 			"Vitorvicentevalente"
 		]
 	},
-	"edituser": "Editar Utilizador",
+	"edituser": "Editar utilizador",
 	"edituser-desc": "Permite que utilizadores com privilégios editem as preferências de outros utilizadores",
 	"edituser-username": "Utilizador:",
 	"edituser-dosearch": "Pesquisar",
 	"edituser-nouser": "O utilizador \"$1\" não existe.",
 	"edituser-exempt": "O utilizador \"$1\" não pode ser editado.",
 	"right-edituser": "Editar as preferências de outros utilizadores",
-	"right-edituser-exempt": "Não podem ter as suas preferências editadas por outros",
-	"action-edituser": "editar as preferências de outros utilizadores"
+	"right-edituser-exempt": "Outros não podem editar as preferências deste utilizador",
+	"action-edituser": "editar as preferências de outros utilizadores",
+	"action-edituser-exempt": "outros não podem editar as preferências deste utilizador"
 }
