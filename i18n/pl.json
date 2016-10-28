@@ -4,7 +4,8 @@
 			"Leinad",
 			"Masti",
 			"Sp5uhe",
-			"Szczepan1990"
+			"Szczepan1990",
+			"Woytecr"
 		]
 	},
 	"edituser": "Edytuj użytkownika",
@@ -14,5 +15,7 @@
 	"edituser-nouser": "Użytkownik „$1” nie istnieje.",
 	"edituser-exempt": "Nie możesz edytować użytkownika „$1”.",
 	"right-edituser": "Edytowanie preferencji innych użytkowników",
-	"right-edituser-exempt": "Inni nie mogą edytować preferencji tego użytkownika"
+	"right-edituser-exempt": "Inni nie mogą edytować preferencji tego użytkownika",
+	"action-edituser": "edycji preferencji innych użytkowników",
+	"action-edituser-exempt": "inni nie mogą edytować preferencji tego użytkownika"
 }
