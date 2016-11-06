@@ -14,5 +14,5 @@
 	"right-edituser": "Edit the preferences of other users",
 	"right-edituser-exempt": "Others cannot edit this user's preferences",
 	"action-edituser": "edit the preferences of other users",
-	"action-edituser-exempt": "others cannot edit this user's preferences"
+	"action-edituser-exempt": "edit the preferences of this user"
 }

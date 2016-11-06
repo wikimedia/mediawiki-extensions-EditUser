@@ -19,5 +19,5 @@
 	"right-edituser": "{{doc-right|edituser}}",
 	"right-edituser-exempt": "{{doc-right|edituser-exempt}}",
 	"action-edituser": "{{doc-action|edituser}}",
-	"action-edituser-exempt": "{{doc-action|edituser-exempt}}"
+	"action-edituser-exempt": "Error presented when trying to edit the preferences of a user for which this special feature is not available.\n\n{{doc-action|edituser-exempt}}"
 }
