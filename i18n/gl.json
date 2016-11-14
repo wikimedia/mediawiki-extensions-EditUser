@@ -16,5 +16,5 @@
 	"right-edituser": "Editar as preferencias doutros usuarios",
 	"right-edituser-exempt": "As súas preferencias non poden ser editadas por outros",
 	"action-edituser": "editar as preferencias doutros usuarios",
-	"action-edituser-exempt": "outros non poden editar as preferencias deste usuario"
+	"action-edituser-exempt": "editar as preferencias deste usuario"
 }
