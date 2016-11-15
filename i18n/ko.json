@@ -4,7 +4,8 @@
 			"Freebiekr",
 			"Kwj2772",
 			"ToePeu",
-			"아라"
+			"아라",
+			"Ykhwong"
 		]
 	},
 	"edituser": "사용자를 편집",
@@ -16,5 +17,5 @@
 	"right-edituser": "다른 사용자의 환경 설정을 편집",
 	"right-edituser-exempt": "다른 사용자가 이 사용자의 환경 설정을 바꿀 수 없게 함",
 	"action-edituser": "다른 사용자의 환경 설정을 조작할",
-	"action-edituser-exempt": "다른 사람이 이 사용자의 환경 설정을 편집하지 못하게 할"
+	"action-edituser-exempt": "이 사용자의 환경 설정을 편집"
 }
