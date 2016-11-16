@@ -13,5 +13,5 @@
 	"right-edituser": "Urejanje nastavitev drugih uporabnikov",
 	"right-edituser-exempt": "Drugi ne morejo urejati nastavitev nastavitev tega uporabnika",
 	"action-edituser": "urejanje nastavitev drugih uporabnikov",
-	"action-edituser-exempt": "drugi ne morejo urejati nastavitev tega uporabnika"
+	"action-edituser-exempt": "urejanje nastavitev tega uporabnika"
 }

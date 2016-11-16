@@ -7,7 +7,8 @@
 			"Nike",
 			"Olli",
 			"ZeiP",
-			"01miki10"
+			"01miki10",
+			"Valtlait"
 		]
 	},
 	"edituser": "Muokkaa käyttäjää",
@@ -19,5 +20,5 @@
 	"right-edituser": "Muokata muiden käyttäjien asetuksia",
 	"right-edituser-exempt": "Muut eivät voi muokata tämän käyttäjän asetuksia.",
 	"action-edituser": "muokata muiden käyttäjien asetuksia",
-	"action-edituser-exempt": "muut eivät voi muokata tämän käyttäjiena asetuksia"
+	"action-edituser-exempt": "muokkaa tämän käyttäjän asetuksia"
 }
