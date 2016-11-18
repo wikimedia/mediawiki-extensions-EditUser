@@ -7,7 +7,8 @@
 			"Shirayuki",
 			"W.CC",
 			"青子守歌",
-			"Otokoume"
+			"Otokoume",
+			"ネイ"
 		]
 	},
 	"edituser": "利用者情報を編集",
@@ -19,5 +20,5 @@
 	"right-edituser": "他の利用者の個人設定を編集",
 	"right-edituser-exempt": "他の利用者にこの利用者の個人設定を編集させない",
 	"action-edituser": "他の利用者の個人設定を編集",
-	"action-edituser-exempt": "他の利用者にこの利用者の個人設定を編集させない"
+	"action-edituser-exempt": "この利用者の個人設定を編集する"
 }
