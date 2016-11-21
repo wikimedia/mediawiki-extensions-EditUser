@@ -5,7 +5,8 @@
 			"Crazymadlover",
 			"Imre",
 			"Jatrobat",
-			"Macofe"
+			"Macofe",
+			"Fitoschido"
 		]
 	},
 	"edituser": "Editar usuario",
@@ -17,5 +18,5 @@
 	"right-edituser": "Editar las preferencias de otros usuarios",
 	"right-edituser-exempt": "Otros no pueden editar las preferencias de este usuario",
 	"action-edituser": "editar las preferencias de otros usuarios",
-	"action-edituser-exempt": "otros no pueden editar las preferencias de este usuario"
+	"action-edituser-exempt": "editar las preferencias de este usuario"
 }
