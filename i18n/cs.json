@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Jkjk",
-			"Mormegil"
+			"Mormegil",
+			"Matěj Suchánek"
 		]
 	},
 	"edituser": "Upravit uživatele",
@@ -12,5 +13,6 @@
 	"edituser-nouser": "Uživatel \"$1\" neexistuje.",
 	"edituser-exempt": "Uživatel \"$1\" nemůže být upraven.",
 	"right-edituser": "Editovat nastavení jiných uživatelů",
-	"right-edituser-exempt": "Jiní nemohou měnit nastavení uživatele"
+	"right-edituser-exempt": "Jiní nemohou měnit nastavení uživatele",
+	"action-edituser-exempt": "měnit nastavení tohoto uživatele"
 }
