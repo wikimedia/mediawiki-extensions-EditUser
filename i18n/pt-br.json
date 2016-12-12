@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Eduardo.mps",
-			"Giro720"
+			"Giro720",
+			"!Silent"
 		]
 	},
 	"edituser": "Editar Utilizador",
@@ -12,5 +13,7 @@
 	"edituser-nouser": "O utilizador \"$1\" não existe.",
 	"edituser-exempt": "O usuário \"$1\" não pode ser editado.",
 	"right-edituser": "Editar as preferências de outros utilizadores",
-	"right-edituser-exempt": "Outros não podem editar as preferências deste usuário"
+	"right-edituser-exempt": "Outros não podem editar as preferências deste usuário",
+	"action-edituser": "editar as preferências de outros usuários",
+	"action-edituser-exempt": "editar as preferências deste usuário"
 }
