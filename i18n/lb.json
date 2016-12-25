@@ -12,5 +12,6 @@
 	"edituser-exempt": "De Benotzer \"$1\" kann net geännert ginn.",
 	"right-edituser": "D'Astellunge vun anere Benotzer änneren",
 	"right-edituser-exempt": "D'Astellunge kënnen net vun Anere geännert ginn",
+	"action-edituser": "d'Astellunge vun anere Benotzer änneren",
 	"action-edituser-exempt": "d'Astellunge vun dësem Benotzer änneren"
 }
