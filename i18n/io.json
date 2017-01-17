@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Malafaya"
+			"Malafaya",
+			"Robin van der Vliet"
 		]
 	},
-	"edituser": "Redaktar uzanto",
+	"edituser": "Redaktar uzero",
 	"edituser-username": "Nomo",
 	"edituser-dosearch": "Serchez",
 	"right-edituser": "Editar la preferaji di altra uzanti"
