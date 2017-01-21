@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Malafaya",
-			"Robin van der Vliet"
+			"Robin van der Vliet",
+			"Lakaoso"
 		]
 	},
 	"edituser": "Redaktar uzero",
-	"edituser-username": "Nomo",
+	"edituser-username": "Uzer-nomo:",
 	"edituser-dosearch": "Serchez",
 	"right-edituser": "Editar la preferaji di altra uzanti"
 }
