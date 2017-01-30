@@ -3,7 +3,8 @@
 		"authors": [
 			"SPQRobin",
 			"Siebrand",
-			"Tvdm"
+			"Tvdm",
+			"Mainframe98"
 		]
 	},
 	"edituser": "Gebruiker bewerken",
@@ -13,5 +14,7 @@
 	"edituser-nouser": "De gebruiker \"$1\" bestaat niet.",
 	"edituser-exempt": "De gebruiker \"$1\" kan niet bewerkt worden.",
 	"right-edituser": "Voorkeuren van andere gebruikers bewerken",
-	"right-edituser-exempt": "Voorkeuren niet te bewerken door anderen"
+	"right-edituser-exempt": "Voorkeuren niet te bewerken door anderen",
+	"action-edituser": "voorkeuren van andere gebruikers bewerken",
+	"action-edituser-exempt": "bewerk de voorkeuren van deze gebruiker"
 }
