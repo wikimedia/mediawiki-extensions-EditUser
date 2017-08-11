@@ -14,7 +14,7 @@ class EditUserPreferencesForm extends PreferencesForm {
 			[ 'reset' => 1, 'username' => $this->getModifiedUser()->getName() ]
 		);
 
-		$html .= "\n" . Xml::element( 'a', [ 'href'=> $url ],
+		$html .= "\n" . Xml::element( 'a', [ 'href' => $url ],
 			$this->msg( 'restoreprefs' )->escaped(),
 				Html::buttonAttributes( $attrs, [ 'mw-ui-quiet' ] ) );
 
