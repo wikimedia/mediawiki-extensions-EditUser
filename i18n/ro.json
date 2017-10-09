@@ -3,7 +3,8 @@
 		"authors": [
 			"Firilacroco",
 			"KlaudiuMihaila",
-			"Minisarm"
+			"Minisarm",
+			"Strainu"
 		]
 	},
 	"edituser": "Modificare utilizator",
@@ -13,5 +14,7 @@
 	"edituser-nouser": "Utilizatorul „$1” nu există.",
 	"edituser-exempt": "Utilizatorul „$1” nu poate fi modificat.",
 	"right-edituser": "Modifică preferințele altor utilizatori",
-	"right-edituser-exempt": "Preferințele acestui utilizator nu pot fi modificate de către altcineva"
+	"right-edituser-exempt": "Preferințele acestui utilizator nu pot fi modificate de către altcineva",
+	"action-edituser": "modificați preferințele altor utilizatori",
+	"action-edituser-exempt": "modificați preferințele acestui utilizator"
 }
