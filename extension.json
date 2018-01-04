@@ -8,7 +8,7 @@
 	],
 	"url": "https://www.mediawiki.org/wiki/Extension:EditUser",
 	"descriptionmsg": "edituser-desc",
-	"license-name": "GPL-2.0+",
+	"license-name": "GPL-2.0-or-later",
 	"type": "specialpage",
 	"GroupPermissions": {
 		"bureaucrat": {
