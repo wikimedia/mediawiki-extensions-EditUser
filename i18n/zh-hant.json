@@ -5,7 +5,8 @@
 			"Liuxinyu970226",
 			"Mark85296341",
 			"Wrightbus",
-			"LNDDYL"
+			"LNDDYL",
+			"Kly"
 		]
 	},
 	"edituser": "編輯使用者",
@@ -15,5 +16,7 @@
 	"edituser-nouser": "使用者 \"$1\" 不存在。",
 	"edituser-exempt": "使用者 \"$1\" 不能被編輯。",
 	"right-edituser": "編輯其他使用者的偏好設定",
-	"right-edituser-exempt": "他人無法編輯這個使用者的偏好設定"
+	"right-edituser-exempt": "他人無法編輯這個使用者的偏好設定",
+	"action-edituser": "編輯其他使用者的偏好設定",
+	"action-edituser-exempt": "編輯此使用者的偏好設定"
 }
