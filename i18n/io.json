@@ -3,11 +3,12 @@
 		"authors": [
 			"Malafaya",
 			"Robin van der Vliet",
-			"Lakaoso"
+			"Lakaoso",
+			"Joao Xavier"
 		]
 	},
 	"edituser": "Redaktar uzero",
-	"edituser-username": "Uzer-nomo:",
+	"edituser-username": "Nomo dil uzero:",
 	"edituser-dosearch": "Serchez",
 	"right-edituser": "Editar la preferaji di altra uzanti"
 }
