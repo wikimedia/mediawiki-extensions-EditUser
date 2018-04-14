@@ -49,7 +49,7 @@ class EditUser extends SpecialPage {
 		$request = $this->getRequest();
 		$this->target = ( isset( $par ) ) ? $par : $request->getText( 'username', '' );
 		if ( $this->target === '' ) {
-			$out->addHtml( $this->makeSearchForm() );
+			$this->makeSearchForm();
 			return;
 		}
 		$targetuser = User::NewFromName( $this->target );
@@ -80,7 +80,8 @@ class EditUser extends SpecialPage {
 		$out->addModuleStyles( 'mediawiki.special.preferences.styles' );
 
 		// $this->loadGlobals( $this->target );
-		$out->addHtml( $this->makeSearchForm() . '<br />' );
+		$this->makeSearchForm();
+		$out->addHtml( '<br>' );
 		# End EditUser additions
 
 		if ( $this->getRequest()->getCheck( 'success' ) ) {
@@ -166,15 +167,25 @@ class EditUser extends SpecialPage {
 	public function makeSearchForm() {
 		global $wgScript;
 
-		$fields = [];
-		$fields['edituser-username'] = Html::input( 'username', $this->target );
+		$formDescriptor = [
+			'textbox' => [
+				'type' => 'user',
+				'name' => 'username',
+				'label-message' => 'edituser-username',
+				'default' => $this->target,
+			]
+		];
 
-		$thisTitle = $this->getTitle();
-		$form = Html::rawElement( 'form', [ 'method' => 'get', 'action' => $wgScript ],
-			Html::hidden( 'title', $this->getTitle()->getPrefixedDBkey() ) .
-			Xml::buildForm( $fields, 'edituser-dosearch' )
-		);
-		return $form;
+		$htmlForm = HTMLForm::factory( 'ooui', $formDescriptor, $this->getContext() );
+		$htmlForm
+			->addHiddenField( 'title', $this->getTitle()->getPrefixedDBkey() )
+			->setAction( $wgScript )
+			->setMethod( 'get' )
+			->setSubmitTextMsg( 'edituser-dosearch' )
+			->prepareForm()
+			->displayForm( false );
+
+		return true;
 	}
 
 	protected function getGroupName() {
