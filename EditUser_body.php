@@ -133,15 +133,15 @@ class EditUser extends SpecialPage {
 
 		$this->getOutput()->addWikiMsg( 'prefs-reset-intro' );
 
-		$htmlForm = new HTMLForm( [], $this->getContext(), 'prefs-restore' );
-
-		$htmlForm->setSubmitTextMsg( 'restoreprefs' );
-		$htmlForm->addHiddenField( 'username', $this->target );
-		$htmlForm->addHiddenField( 'reset', '1' );
-		$htmlForm->setSubmitCallback( [ $this, 'submitReset' ] );
-		$htmlForm->suppressReset();
-
-		$htmlForm->show();
+		$htmlForm = HTMLForm::factory( 'ooui', [], $this->getContext(), 'prefs-restore' );
+		$htmlForm
+			->addHiddenField( 'username', $this->target )
+			->addHiddenField( 'reset', '1' )
+			->setSubmitTextMsg( 'restoreprefs' )
+			->setSubmitCallback( [ $this, 'submitReset' ] )
+			->setSubmitDestructive()
+			->suppressReset()
+			->show();
 	}
 
 	public function submitReset( $formData ) {
