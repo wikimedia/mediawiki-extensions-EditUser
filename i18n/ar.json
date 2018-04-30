@@ -4,7 +4,8 @@
 			"Loya",
 			"Meno25",
 			"Mutarjem horr",
-			"OsamaK"
+			"OsamaK",
+			"ديفيد"
 		]
 	},
 	"edituser": "تعديل مستخدم",
@@ -14,5 +15,7 @@
 	"edituser-nouser": "المستخدم \"$1\" غير موجود.",
 	"edituser-exempt": "لا يمكن تحرير أي شيئ للمستخدم \"$1\" .",
 	"right-edituser": "تعديل تفضيلات المستخدمين الآخرين",
-	"right-edituser-exempt": "لا يمكن تعديل تفضيلاتهم بواسطة الآخرين"
+	"right-edituser-exempt": "لا يمكن تعديل تفضيلاتهم بواسطة الآخرين",
+	"action-edituser": "تعديل تفضيلات المستخدمين الآخرين",
+	"action-edituser-exempt": "تحرير تفضيلات هذا المستخدم"
 }
