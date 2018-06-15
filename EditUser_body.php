@@ -22,6 +22,8 @@
  * @ingroup SpecialPage
  */
 
+use MediaWiki\MediaWikiServices;
+
 /**
  * A special page that allows users to change their preferences
  *
@@ -115,9 +117,13 @@ class EditUser extends SpecialPage {
 
 		$this->addHelpLink( 'Help:Preferences' );
 
-		$htmlForm = Preferences::getFormObject( $targetuser, $this->getContext(),
-			'EditUserPreferencesForm', [ 'password' ] );
-		$htmlForm->setSubmitCallback( 'Preferences::tryUISubmit' );
+		$preferencesFactory = MediaWikiServices::getInstance()->getPreferencesFactory();
+		$htmlForm = $preferencesFactory->getForm( $targetuser,
+			$this->getContext(),
+			EditUserPreferencesForm::class,
+			[ 'password' ]
+		);
+
 		$htmlForm->addHiddenField( 'username', $this->target );
 
 		$htmlForm->show();
@@ -157,7 +163,7 @@ class EditUser extends SpecialPage {
 		$this->targetuser->resetOptions( 'all', $this->getContext() );
 		$this->targetuser->saveSettings();
 
-		$url = $this->getTitle()->getFullURL( [ 'success' => 1, 'username' => $this->target ] );
+		$url = $this->getPageTitle()->getFullURL( [ 'success' => 1, 'username' => $this->target ] );
 
 		$this->getOutput()->redirect( $url );
 
@@ -178,7 +184,7 @@ class EditUser extends SpecialPage {
 
 		$htmlForm = HTMLForm::factory( 'ooui', $formDescriptor, $this->getContext() );
 		$htmlForm
-			->addHiddenField( 'title', $this->getTitle()->getPrefixedDBkey() )
+			->addHiddenField( 'title', $this->getPageTitle()->getPrefixedDBkey() )
 			->setAction( $wgScript )
 			->setMethod( 'get' )
 			->setSubmitTextMsg( 'edituser-dosearch' )
