@@ -5,7 +5,7 @@ class EditUserPreferencesForm extends PreferencesForm {
 		return [ 'username' => $this->getModifiedUser()->getName() ];
 	}
 
-	function getButtons() {
+	public function getButtons() {
 		$attrs = [ 'id' => 'mw-prefs-restoreprefs' ];
 
 		$html = HTMLForm::getButtons();

@@ -30,7 +30,7 @@ use MediaWiki\MediaWikiServices;
  * @ingroup SpecialPage
  */
 class EditUser extends SpecialPage {
-	function __construct() {
+	public function __construct() {
 		parent::__construct( 'EditUser', 'edituser' );
 	}
 
