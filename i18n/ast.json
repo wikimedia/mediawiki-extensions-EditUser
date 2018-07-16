@@ -10,7 +10,7 @@
 	"edituser-username": "Nome d'usuariu:",
 	"edituser-dosearch": "Guetar",
 	"edituser-nouser": "L'usuariu \"$1\" nun esiste.",
-	"edituser-exempt": "L'usuariu \"$1\" nun pué editase.",
+	"edituser-exempt": "L'usuariu «$1» nun puede editase.",
 	"right-edituser": "Editar les preferencies d'otros usuarios",
 	"right-edituser-exempt": "Otros nun pueden cambiar les preferencies d'esti usuariu",
 	"action-edituser": "editar les preferencies d'otros usuarios",
