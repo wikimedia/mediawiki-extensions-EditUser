@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jon Harald Søby"
+			"Jon Harald Søby",
+			"Saederup92"
 		]
 	},
-	"edituser-username": "Navn",
+	"edituser-username": "Brugernavn:",
 	"edituser-dosearch": "Søg"
 }
