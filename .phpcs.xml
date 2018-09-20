@@ -6,6 +6,9 @@
 		<exclude name="MediaWiki.Files.ClassMatchesFilename.NotMatch" />
 		<exclude name="MediaWiki.WhiteSpace.SpaceBeforeSingleLineComment.NewLineComment" />
 	</rule>
+	<rule ref="Generic.Files.LineLength">
+		<exclude-pattern>EditUser\.*alias\.php</exclude-pattern>
+	</rule>
 	<file>.</file>
 	<arg name="extensions" value="php,php5,inc" />
 	<arg name="encoding" value="utf8" />

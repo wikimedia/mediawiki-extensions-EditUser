@@ -5,286 +5,285 @@
  * @file
  * @ingroup Extensions
  */
-// @codingStandardsIgnoreFile
 
-$specialPageAliases = array();
+$specialPageAliases = [];
 
 /** English (English) */
-$specialPageAliases['en'] = array(
-	'EditUser' => array( 'EditUser' ),
-);
+$specialPageAliases['en'] = [
+	'EditUser' => [ 'EditUser' ],
+];
 
 /** Arabic (العربية) */
-$specialPageAliases['ar'] = array(
-	'EditUser' => array( 'تعديل_المستخدم' ),
-);
+$specialPageAliases['ar'] = [
+	'EditUser' => [ 'تعديل_المستخدم' ],
+];
 
 /** Egyptian Spoken Arabic (مصرى) */
-$specialPageAliases['arz'] = array(
-	'EditUser' => array( 'تعديل_اليوزر' ),
-);
+$specialPageAliases['arz'] = [
+	'EditUser' => [ 'تعديل_اليوزر' ],
+];
 
 /** Assamese (অসমীয়া) */
-$specialPageAliases['as'] = array(
-	'EditUser' => array( 'সদস্য_সম্পাদনা' ),
-);
+$specialPageAliases['as'] = [
+	'EditUser' => [ 'সদস্য_সম্পাদনা' ],
+];
 
 /** Banjar (Bahasa Banjar) */
-$specialPageAliases['bjn'] = array(
-	'EditUser' => array( 'Babak_pamakai' ),
-);
+$specialPageAliases['bjn'] = [
+	'EditUser' => [ 'Babak_pamakai' ],
+];
 
 /** Bosnian (bosanski) */
-$specialPageAliases['bs'] = array(
-	'EditUser' => array( 'UrediKorisnika' ),
-);
+$specialPageAliases['bs'] = [
+	'EditUser' => [ 'UrediKorisnika' ],
+];
 
 /** German (Deutsch) */
-$specialPageAliases['de'] = array(
-	'EditUser' => array( 'Benutzereinstellungen_bearbeiten' ),
-);
+$specialPageAliases['de'] = [
+	'EditUser' => [ 'Benutzereinstellungen_bearbeiten' ],
+];
 
 /** Zazaki (Zazaki) */
-$specialPageAliases['diq'] = array(
-	'EditUser' => array( 'KarberTimar' ),
-);
+$specialPageAliases['diq'] = [
+	'EditUser' => [ 'KarberTimar' ],
+];
 
 /** Lower Sorbian (dolnoserbski) */
-$specialPageAliases['dsb'] = array(
-	'EditUser' => array( 'Wužywarske_nastajenja_wobźěłaś' ),
-);
+$specialPageAliases['dsb'] = [
+	'EditUser' => [ 'Wužywarske_nastajenja_wobźěłaś' ],
+];
 
 /** Spanish (español) */
-$specialPageAliases['es'] = array(
-	'EditUser' => array( 'Editar_usuario' ),
-);
+$specialPageAliases['es'] = [
+	'EditUser' => [ 'Editar_usuario' ],
+];
 
 /** Persian (فارسی) */
-$specialPageAliases['fa'] = array(
-	'EditUser' => array( 'ویرایش_کاربر' ),
-);
+$specialPageAliases['fa'] = [
+	'EditUser' => [ 'ویرایش_کاربر' ],
+];
 
 /** Finnish (suomi) */
-$specialPageAliases['fi'] = array(
-	'EditUser' => array( 'Muokkaa_käyttäjää' ),
-);
+$specialPageAliases['fi'] = [
+	'EditUser' => [ 'Muokkaa_käyttäjää' ],
+];
 
 /** French (français) */
-$specialPageAliases['fr'] = array(
-	'EditUser' => array( 'Modifier_l’utilisateur', 'ModifierUtilisateur', 'EditerUtilisateur', 'ÉditerUtilisateur', 'Éditer_l’utilisateur' ),
-);
+$specialPageAliases['fr'] = [
+	'EditUser' => [ 'Modifier_l’utilisateur', 'ModifierUtilisateur', 'EditerUtilisateur', 'ÉditerUtilisateur', 'Éditer_l’utilisateur' ],
+];
 
 /** Franco-Provençal (arpetan) */
-$specialPageAliases['frp'] = array(
-	'EditUser' => array( 'Changiér_l\'usanciér', 'ChangiérLUsanciér' ),
-);
+$specialPageAliases['frp'] = [
+	'EditUser' => [ 'Changiér_l\'usanciér', 'ChangiérLUsanciér' ],
+];
 
 /** Galician (galego) */
-$specialPageAliases['gl'] = array(
-	'EditUser' => array( 'Editar_o_usuario' ),
-);
+$specialPageAliases['gl'] = [
+	'EditUser' => [ 'Editar_o_usuario' ],
+];
 
 /** Swiss German (Alemannisch) */
-$specialPageAliases['gsw'] = array(
-	'EditUser' => array( 'Benutzeryystellige_bearbeite' ),
-);
+$specialPageAliases['gsw'] = [
+	'EditUser' => [ 'Benutzeryystellige_bearbeite' ],
+];
 
 /** Gujarati (ગુજરાતી) */
-$specialPageAliases['gu'] = array(
-	'EditUser' => array( 'સભ્યફેરફાર' ),
-);
+$specialPageAliases['gu'] = [
+	'EditUser' => [ 'સભ્યફેરફાર' ],
+];
 
 /** Hebrew (עברית) */
-$specialPageAliases['he'] = array(
-	'EditUser' => array( 'עריכת_משתמש' ),
-);
+$specialPageAliases['he'] = [
+	'EditUser' => [ 'עריכת_משתמש' ],
+];
 
 /** Croatian (hrvatski) */
-$specialPageAliases['hr'] = array(
-	'EditUser' => array( 'Uredi_suradnika' ),
-);
+$specialPageAliases['hr'] = [
+	'EditUser' => [ 'Uredi_suradnika' ],
+];
 
 /** Upper Sorbian (hornjoserbsce) */
-$specialPageAliases['hsb'] = array(
-	'EditUser' => array( 'Wužiwarske_nastajenja_wobdźěłać' ),
-);
+$specialPageAliases['hsb'] = [
+	'EditUser' => [ 'Wužiwarske_nastajenja_wobdźěłać' ],
+];
 
 /** Haitian (Kreyòl ayisyen) */
-$specialPageAliases['ht'] = array(
-	'EditUser' => array( 'ModifyeItilizatè' ),
-);
+$specialPageAliases['ht'] = [
+	'EditUser' => [ 'ModifyeItilizatè' ],
+];
 
 /** Hungarian (magyar) */
-$specialPageAliases['hu'] = array(
-	'EditUser' => array( 'Szerkesztő_szerkesztése' ),
-);
+$specialPageAliases['hu'] = [
+	'EditUser' => [ 'Szerkesztő_szerkesztése' ],
+];
 
 /** Interlingua (interlingua) */
-$specialPageAliases['ia'] = array(
-	'EditUser' => array( 'Modificar_usator' ),
-);
+$specialPageAliases['ia'] = [
+	'EditUser' => [ 'Modificar_usator' ],
+];
 
 /** Indonesian (Bahasa Indonesia) */
-$specialPageAliases['id'] = array(
-	'EditUser' => array( 'Sunting_pengguna', 'SuntingPengguna' ),
-);
+$specialPageAliases['id'] = [
+	'EditUser' => [ 'Sunting_pengguna', 'SuntingPengguna' ],
+];
 
 /** Igbo (Igbo) */
-$specialPageAliases['ig'] = array(
-	'EditUser' => array( 'RüoỌ\'bànifé' ),
-);
+$specialPageAliases['ig'] = [
+	'EditUser' => [ 'RüoỌ\'bànifé' ],
+];
 
 /** Italian (italiano) */
-$specialPageAliases['it'] = array(
-	'EditUser' => array( 'ModificaUtente' ),
-);
+$specialPageAliases['it'] = [
+	'EditUser' => [ 'ModificaUtente' ],
+];
 
 /** Japanese (日本語) */
-$specialPageAliases['ja'] = array(
-	'EditUser' => array( '利用者情報の編集' ),
-);
+$specialPageAliases['ja'] = [
+	'EditUser' => [ '利用者情報の編集' ],
+];
 
 /** Georgian (ქართული) */
-$specialPageAliases['ka'] = array(
-	'EditUser' => array( 'მომხმარებლის_რედაქტირება' ),
-);
+$specialPageAliases['ka'] = [
+	'EditUser' => [ 'მომხმარებლის_რედაქტირება' ],
+];
 
 /** Khmer (ភាសាខ្មែរ) */
-$specialPageAliases['km'] = array(
-	'EditUser' => array( 'កែប្រែអ្នកប្រើប្រាស់' ),
-);
+$specialPageAliases['km'] = [
+	'EditUser' => [ 'កែប្រែអ្នកប្រើប្រាស់' ],
+];
 
 /** Korean (한국어) */
-$specialPageAliases['ko'] = array(
-	'EditUser' => array( '사용자편집' ),
-);
+$specialPageAliases['ko'] = [
+	'EditUser' => [ '사용자편집' ],
+];
 
 /** Colognian (Ripoarisch) */
-$specialPageAliases['ksh'] = array(
-	'EditUser' => array( 'Metmaacher_ier_Enstellunge_Ändere_Metmaacher_ier_Enshtellunge_Ändere' ),
-);
+$specialPageAliases['ksh'] = [
+	'EditUser' => [ 'Metmaacher_ier_Enstellunge_Ändere_Metmaacher_ier_Enshtellunge_Ändere' ],
+];
 
 /** Ladino (Ladino) */
-$specialPageAliases['lad'] = array(
-	'EditUser' => array( 'TrocarUsador' ),
-);
+$specialPageAliases['lad'] = [
+	'EditUser' => [ 'TrocarUsador' ],
+];
 
 /** Luxembourgish (Lëtzebuergesch) */
-$specialPageAliases['lb'] = array(
-	'EditUser' => array( 'Benotzer_änneren' ),
-);
+$specialPageAliases['lb'] = [
+	'EditUser' => [ 'Benotzer_änneren' ],
+];
 
 /** Macedonian (македонски) */
-$specialPageAliases['mk'] = array(
-	'EditUser' => array( 'УредиКорисник' ),
-);
+$specialPageAliases['mk'] = [
+	'EditUser' => [ 'УредиКорисник' ],
+];
 
 /** Marathi (मराठी) */
-$specialPageAliases['mr'] = array(
-	'EditUser' => array( 'संपादनसदस्य' ),
-);
+$specialPageAliases['mr'] = [
+	'EditUser' => [ 'संपादनसदस्य' ],
+];
 
 /** Malay (Bahasa Melayu) */
-$specialPageAliases['ms'] = array(
-	'EditUser' => array( 'Jumlah_pengguna' ),
-);
+$specialPageAliases['ms'] = [
+	'EditUser' => [ 'Jumlah_pengguna' ],
+];
 
 /** Erzya (эрзянь) */
-$specialPageAliases['myv'] = array(
-	'EditUser' => array( 'ВитницяПетниця' ),
-);
+$specialPageAliases['myv'] = [
+	'EditUser' => [ 'ВитницяПетниця' ],
+];
 
 /** Norwegian Bokmål (norsk (bokmål)‎) */
-$specialPageAliases['nb'] = array(
-	'EditUser' => array( 'Rediger_bruker' ),
-);
+$specialPageAliases['nb'] = [
+	'EditUser' => [ 'Rediger_bruker' ],
+];
 
 /** Nedersaksisch (Nedersaksisch) */
-$specialPageAliases['nds-nl'] = array(
-	'EditUser' => array( 'Gebruker_bewarken' ),
-);
+$specialPageAliases['nds-nl'] = [
+	'EditUser' => [ 'Gebruker_bewarken' ],
+];
 
 /** Dutch (Nederlands) */
-$specialPageAliases['nl'] = array(
-	'EditUser' => array( 'GebruikerBewerken' ),
-);
+$specialPageAliases['nl'] = [
+	'EditUser' => [ 'GebruikerBewerken' ],
+];
 
 /** Occitan (occitan) */
-$specialPageAliases['oc'] = array(
-	'EditUser' => array( 'EditarUtilizaire', 'Editar_l’utilizaire' ),
-);
+$specialPageAliases['oc'] = [
+	'EditUser' => [ 'EditarUtilizaire', 'Editar_l’utilizaire' ],
+];
 
 /** Polish (polski) */
-$specialPageAliases['pl'] = array(
-	'EditUser' => array( 'Edycja_użytkownika' ),
-);
+$specialPageAliases['pl'] = [
+	'EditUser' => [ 'Edycja_użytkownika' ],
+];
 
 /** Portuguese (português) */
-$specialPageAliases['pt'] = array(
-	'EditUser' => array( 'Editar_utilizador' ),
-);
+$specialPageAliases['pt'] = [
+	'EditUser' => [ 'Editar_utilizador' ],
+];
 
 /** Brazilian Portuguese (português do Brasil) */
-$specialPageAliases['pt-br'] = array(
-	'EditUser' => array( 'Editar_usuário' ),
-);
+$specialPageAliases['pt-br'] = [
+	'EditUser' => [ 'Editar_usuário' ],
+];
 
 /** Romanian (română) */
-$specialPageAliases['ro'] = array(
-	'EditUser' => array( 'Modificare_utilizator' ),
-);
+$specialPageAliases['ro'] = [
+	'EditUser' => [ 'Modificare_utilizator' ],
+];
 
 /** Sanskrit (संस्कृतम्) */
-$specialPageAliases['sa'] = array(
-	'EditUser' => array( 'सम्पादन्‌योजक' ),
-);
+$specialPageAliases['sa'] = [
+	'EditUser' => [ 'सम्पादन्‌योजक' ],
+];
 
 /** Slovak (slovenčina) */
-$specialPageAliases['sk'] = array(
-	'EditUser' => array( 'ÚpravaPoužívateľa' ),
-);
+$specialPageAliases['sk'] = [
+	'EditUser' => [ 'ÚpravaPoužívateľa' ],
+];
 
 /** Serbian (Cyrillic script) (српски (ћирилица)‎) */
-$specialPageAliases['sr-ec'] = array(
-	'EditUser' => array( 'Уреди_корисника' ),
-);
+$specialPageAliases['sr-ec'] = [
+	'EditUser' => [ 'Уреди_корисника' ],
+];
 
 /** Swedish (svenska) */
-$specialPageAliases['sv'] = array(
-	'EditUser' => array( 'Redigera_användare' ),
-);
+$specialPageAliases['sv'] = [
+	'EditUser' => [ 'Redigera_användare' ],
+];
 
 /** Swahili (Kiswahili) */
-$specialPageAliases['sw'] = array(
-	'EditUser' => array( 'HaririMtumiaji' ),
-);
+$specialPageAliases['sw'] = [
+	'EditUser' => [ 'HaririMtumiaji' ],
+];
 
 /** Thai (ไทย) */
-$specialPageAliases['th'] = array(
-	'EditUser' => array( 'แก้ไขผู้ใช้' ),
-);
+$specialPageAliases['th'] = [
+	'EditUser' => [ 'แก้ไขผู้ใช้' ],
+];
 
 /** Tagalog (Tagalog) */
-$specialPageAliases['tl'] = array(
-	'EditUser' => array( 'Baguhin_ang_tagagamit' ),
-);
+$specialPageAliases['tl'] = [
+	'EditUser' => [ 'Baguhin_ang_tagagamit' ],
+];
 
 /** Turkish (Türkçe) */
-$specialPageAliases['tr'] = array(
-	'EditUser' => array( 'KullanıcıDüzenle' ),
-);
+$specialPageAliases['tr'] = [
+	'EditUser' => [ 'KullanıcıDüzenle' ],
+];
 
 /** Tatar (Cyrillic script) (татарча) */
-$specialPageAliases['tt-cyrl'] = array(
-	'EditUser' => array( 'Кулланучыны_үзгәртү' ),
-);
+$specialPageAliases['tt-cyrl'] = [
+	'EditUser' => [ 'Кулланучыны_үзгәртү' ],
+];
 
 /** Simplified Chinese (中文（简体）‎) */
-$specialPageAliases['zh-hans'] = array(
-	'EditUser' => array( '编辑用户' ),
-);
+$specialPageAliases['zh-hans'] = [
+	'EditUser' => [ '编辑用户' ],
+];
 
 /** Traditional Chinese (中文（繁體）‎) */
-$specialPageAliases['zh-hant'] = array(
-	'EditUser' => array( '編輯用戶' ),
-);
+$specialPageAliases['zh-hant'] = [
+	'EditUser' => [ '編輯用戶' ],
+];
