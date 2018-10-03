@@ -5,7 +5,8 @@
 			"Masti",
 			"Sp5uhe",
 			"Szczepan1990",
-			"Woytecr"
+			"Woytecr",
+			"Railfail536"
 		]
 	},
 	"edituser": "Edytuj użytkownika",
@@ -17,5 +18,5 @@
 	"right-edituser": "Edytowanie preferencji innych użytkowników",
 	"right-edituser-exempt": "Inni nie mogą edytować preferencji tego użytkownika",
 	"action-edituser": "edycji preferencji innych użytkowników",
-	"action-edituser-exempt": "inni nie mogą edytować preferencji tego użytkownika"
+	"action-edituser-exempt": "edytowania preferencji tego użytkownika"
 }
