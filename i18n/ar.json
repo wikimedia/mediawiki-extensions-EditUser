@@ -9,6 +9,7 @@
 		]
 	},
 	"edituser": "تعديل مستخدم",
+	"edituser-extensionname": "عدل المستخدم",
 	"edituser-desc": "يسمح للمستخدمين ذوي الصلاحية بتعديل تفضيلات المستخدمين الآخرين",
 	"edituser-username": "اسم المستخدم:",
 	"edituser-dosearch": "بحث",
