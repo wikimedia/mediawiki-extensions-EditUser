@@ -179,6 +179,7 @@ class EditUser extends SpecialPage {
 				'name' => 'username',
 				'label-message' => 'edituser-username',
 				'default' => $this->target,
+				'required' => true,
 			]
 		];
 
