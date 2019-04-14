@@ -1,6 +1,6 @@
 <?php
 
-class EditUserPreferencesForm extends PreferencesForm {
+class EditUserPreferencesForm extends PreferencesFormOOUI {
 	public function getExtraSuccessRedirectParameters() {
 		return [ 'username' => $this->getModifiedUser()->getName() ];
 	}
