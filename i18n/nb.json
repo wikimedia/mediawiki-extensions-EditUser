@@ -6,6 +6,7 @@
 		]
 	},
 	"edituser": "Rediger bruker",
+	"edituser-extensionname": "Rediger bruker",
 	"edituser-desc": "Lar priviligerte brukere redigere andre brukeres innstillinger",
 	"edituser-username": "Brukernavn:",
 	"edituser-dosearch": "Søk",
