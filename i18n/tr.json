@@ -5,7 +5,8 @@
 			"Manco Capac",
 			"Vito Genovese",
 			"Sayginer",
-			"HakanIST"
+			"HakanIST",
+			"BaRaN6161 TURK"
 		]
 	},
 	"edituser": "Kullanıcıyı düzenle",
@@ -17,5 +18,5 @@
 	"right-edituser": "Diğer kullanıcıların tercihlerini düzenler",
 	"right-edituser-exempt": "Başkaları bu kullanıcının tercihlerini düzenleyemez",
 	"action-edituser": "diğer kullanıcıların tercihlerini düzenle",
-	"action-edituser-exempt": "bu kullanıcının tercihlerini, diğer kullanıcılar değiştiremez"
+	"action-edituser-exempt": "bu kullanıcının tercihlerini düzenle"
 }
