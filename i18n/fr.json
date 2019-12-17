@@ -8,7 +8,8 @@
 			"Peter17",
 			"PieRRoMaN",
 			"VictorBrice",
-			"Gomoko"
+			"Gomoko",
+			"Thibaut120094"
 		]
 	},
 	"edituser": "Modifier l'utilisateur",
@@ -16,8 +17,8 @@
 	"edituser-desc": "Permet aux utilisateurs disposant de certains privilèges de modifier les préférences des autres utilisateurs",
 	"edituser-username": "Nom d’utilisateur :",
 	"edituser-dosearch": "Rechercher",
-	"edituser-nouser": "L'utilisateur « $1 » n'existe pas.",
-	"edituser-exempt": "L'utilisateur « $1 » ne peut pas être modifié.",
+	"edituser-nouser": "L’utilisateur « $1 » n’existe pas.",
+	"edituser-exempt": "L’utilisateur « $1 » ne peut pas être modifié.",
 	"right-edituser": "Modifie les préférences des autres utilisateurs",
 	"right-edituser-exempt": "Les préférences de cet utilisateur ne sont pas modifiables par les autres",
 	"action-edituser": "modifier les préférences des autres utilisateurs",
