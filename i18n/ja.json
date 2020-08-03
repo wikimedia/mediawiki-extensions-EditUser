@@ -19,6 +19,6 @@
 	"edituser-exempt": "利用者「$1」は編集できません。",
 	"right-edituser": "他の利用者の個人設定を編集",
 	"right-edituser-exempt": "他の利用者にこの利用者の個人設定を編集させない",
-	"action-edituser": "他の利用者の個人設定を編集",
+	"action-edituser": "他の利用者の個人設定の編集",
 	"action-edituser-exempt": "この利用者の個人設定の編集"
 }
