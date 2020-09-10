@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sortilegus"
+			"Sortilegus",
+			"Şeyx Şamil"
 		]
 	},
 	"edituser": "İstifadəçini dəyiş",
@@ -10,6 +11,8 @@
 	"edituser-dosearch": "Axtar",
 	"edituser-nouser": "İstifadəçi \"$1\" mövcud deyil",
 	"edituser-exempt": "İstifadəçi \"$1\" redaktə edilə bilməz",
-	"right-edituser": "digər istifadəçilərin nizamlamalarının redaktəsi",
-	"right-edituser-exempt": "digər istifadəçilər bu istifadəçinin nizamlamalarını redaktə edə bilməz"
+	"right-edituser": "digər istifadəçilərin nizamlamalarını redaktə et",
+	"right-edituser-exempt": "digər istifadəçilər bu istifadəçinin nizamlamalarını redaktə edə bilməz",
+	"action-edituser": "digər istifadəçilərin nizamlamalarını redaktə et",
+	"action-edituser-exempt": "bu istifadəçinin nizamlamalarını redaktə et"
 }
