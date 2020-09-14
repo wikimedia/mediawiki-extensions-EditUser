@@ -3,6 +3,7 @@
 		"authors": [
 			"Jon Harald Søby",
 			"Liuxinyu970226",
+			"MuratTheTurkish",
 			"Patriot Kur",
 			"Purodha",
 			"Raymond",
@@ -14,7 +15,7 @@
 	"edituser-extensionname": "{{name}}",
 	"edituser-desc": "{{desc|name=EditUser|url=https://www.mediawiki.org/wiki/Extension:EditUser}}",
 	"edituser-username": "{{Identical|Username}}",
-	"edituser-dosearch": "{{Identical|Bınəv}}",
+	"edituser-dosearch": "",
 	"edituser-nouser": "Used for saying that the user does not exist.",
 	"edituser-exempt": "Used for saying the user cannot be edited.",
 	"right-edituser": "{{doc-right|edituser}}",
