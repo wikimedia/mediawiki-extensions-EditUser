@@ -15,7 +15,7 @@
 	"edituser-username": "Kullanıcı adı:",
 	"edituser-dosearch": "Ara",
 	"edituser-nouser": "\"$1\" kullanıcısı mevcut değil.",
-	"edituser-exempt": "\"$1\" kullanıcısı düzenlenemiyor.",
+	"edituser-exempt": "\"$1\" adlı kullanıcı düzenlenemiyor.",
 	"right-edituser": "Diğer kullanıcıların tercihlerini düzenle",
 	"right-edituser-exempt": "Başkaları bu kullanıcının tercihlerini düzenleyemez",
 	"action-edituser": "diğer kullanıcıların tercihlerini düzenle",
