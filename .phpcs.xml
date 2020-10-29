@@ -4,13 +4,14 @@
 		<exclude name="MediaWiki.Commenting.FunctionComment.MissingDocumentationProtected" />
 		<exclude name="MediaWiki.Commenting.FunctionComment.MissingDocumentationPublic" />
 		<exclude name="MediaWiki.Files.ClassMatchesFilename.NotMatch" />
+		<exclude name="MediaWiki.Usage.ExtendClassUsage.FunctionConfigUsage" />
 		<exclude name="MediaWiki.WhiteSpace.SpaceBeforeSingleLineComment.NewLineComment" />
 	</rule>
 	<rule ref="Generic.Files.LineLength">
 		<exclude-pattern>EditUser\.*alias\.php</exclude-pattern>
 	</rule>
 	<file>.</file>
-	<arg name="extensions" value="php,php5,inc" />
-	<arg name="encoding" value="utf8" />
+	<arg name="extensions" value="php" />
+	<arg name="encoding" value="UTF-8" />
 	<exclude-pattern>vendor</exclude-pattern>
 </ruleset>
