@@ -37,8 +37,8 @@
 		"EditUser": "EditUser"
 	},
 	"AutoloadClasses": {
-		"EditUser": "EditUser_body.php",
-		"EditUserPreferencesForm": "EditUserPreferencesForm.php"
+		"EditUser": "includes/EditUser.php",
+		"EditUserPreferencesForm": "includes/EditUserPreferencesForm.php"
 	},
 	"config": {},
 	"manifest_version": 1

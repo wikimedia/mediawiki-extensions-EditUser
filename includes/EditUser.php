@@ -68,7 +68,8 @@ class EditUser extends SpecialPage {
 
 		$this->setHeaders();
 		$this->outputHeader();
-		$out->disallowUserJs(); # Prevent hijacked user scripts from sniffing passwords etc.
+		# Prevent hijacked user scripts from sniffing passwords etc.
+		$out->disallowUserJs();
 
 		$this->checkReadOnly();
 
@@ -195,6 +196,9 @@ class EditUser extends SpecialPage {
 		return true;
 	}
 
+	/**
+	 * @inheritDoc
+	 */
 	protected function getGroupName() {
 		return 'users';
 	}
