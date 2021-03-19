@@ -161,7 +161,15 @@ class EditUser extends SpecialPage {
 			throw new PermissionsError( 'edituser' );
 		}
 
-		$this->targetuser->resetOptions( 'all', $this->getContext() );
+		$services = MediaWikiServices::getInstance();
+		if ( method_exists( $services, 'getUserOptionsManager' ) ) {
+			// MW 1.35 +
+			$services->getUserOptionsManager()
+				->resetOptions( $this->targetuser, $this->getContext(), 'all' );
+		} else {
+			$this->targetuser->resetOptions( 'all', $this->getContext() );
+		}
+
 		$this->targetuser->saveSettings();
 
 		$url = $this->getPageTitle()->getFullURL( [ 'success' => 1, 'username' => $this->target ] );
