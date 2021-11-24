@@ -4,7 +4,8 @@
 			"Guycn2",
 			"Rotemliss",
 			"StuB",
-			"YaronSh"
+			"YaronSh",
+			"Amire80"
 		]
 	},
 	"edituser": "עריכת משתמש",
@@ -16,5 +17,5 @@
 	"right-edituser": "עריכת ההעדפות של משתמשים אחרים",
 	"right-edituser-exempt": "חסינות משינוי ההעדפות של המשתמש על־ידי משתמשים אחרים",
 	"action-edituser": "לערוך את ההעדפות של משתמשים אחרים",
-	"action-edituser-exempt": "לשנות את ההעדפות של המשתמש הזה"
+	"action-edituser-exempt": "לערוך את ההעדפות של המשתמש הזה"
 }
