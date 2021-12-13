@@ -4,10 +4,11 @@
 			"!Silent",
 			"Eduardo Addad de Oliveira",
 			"Eduardo.mps",
-			"Giro720"
+			"Giro720",
+			"Eduardoaddad"
 		]
 	},
-	"edituser": "Editar Utilizador",
+	"edituser": "Editar usuário",
 	"edituser-desc": "Permite que utilizadores com privilégios editem as preferências de outros utilizadores",
 	"edituser-username": "Usuário:",
 	"edituser-dosearch": "Pesquisar",

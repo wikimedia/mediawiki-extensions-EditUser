@@ -6,7 +6,8 @@
 			"Karduelis",
 			"Manco Capac",
 			"Sayginer",
-			"Vito Genovese"
+			"Vito Genovese",
+			"MuratTheTurkish"
 		]
 	},
 	"edituser": "Kullanıcıyı düzenle",
@@ -14,8 +15,8 @@
 	"edituser-username": "Kullanıcı adı:",
 	"edituser-dosearch": "Ara",
 	"edituser-nouser": "\"$1\" kullanıcısı mevcut değil.",
-	"edituser-exempt": "\"$1\" kullanıcısı düzenlenemiyor.",
-	"right-edituser": "Diğer kullanıcıların tercihlerini düzenler",
+	"edituser-exempt": "\"$1\" adlı kullanıcı düzenlenemiyor.",
+	"right-edituser": "Diğer kullanıcıların tercihlerini düzenle",
 	"right-edituser-exempt": "Başkaları bu kullanıcının tercihlerini düzenleyemez",
 	"action-edituser": "diğer kullanıcıların tercihlerini düzenle",
 	"action-edituser-exempt": "bu kullanıcının tercihlerini düzenle"
