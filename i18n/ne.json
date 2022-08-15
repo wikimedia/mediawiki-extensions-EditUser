@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"RajeshPandey"
+			"RajeshPandey",
+			"Bada Kaji"
 		]
 	},
-	"edituser-username": "प्रयोगकर्ता नाम:"
+	"edituser-username": "प्रयोगकर्ता नाम:",
+	"edituser-dosearch": "खोज्नुहोस्"
 }
