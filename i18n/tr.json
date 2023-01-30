@@ -7,10 +7,11 @@
 			"Manco Capac",
 			"Sayginer",
 			"Vito Genovese",
-			"MuratTheTurkish"
+			"MuratTheTurkish",
+			"Rapsar"
 		]
 	},
-	"edituser": "Kullanıcıyı düzenle",
+	"edituser": "Kullanıcıyı değiştir",
 	"edituser-desc": "Ayrıcalıklı kullanıcıların diğer kullanıcıların tercihlerini değiştirmesini mümkün kılar",
 	"edituser-username": "Kullanıcı adı:",
 	"edituser-dosearch": "Ara",
