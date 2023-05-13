@@ -12,7 +12,7 @@
 	"edituser-nouser": "The user \"$1\" does not exist.",
 	"edituser-exempt": "The user \"$1\" cannot be edited.",
 	"right-edituser": "Edit the preferences of other users",
-	"right-edituser-exempt": "Others cannot edit this user's preferences",
+	"right-edituser-exempt": "Prevent other users from editing your own preferences",
 	"action-edituser": "edit the preferences of other users",
 	"action-edituser-exempt": "edit the preferences of this user"
 }
