@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Dbc334"
+			"Dbc334",
+			"Eleassar"
 		]
 	},
 	"edituser": "Uredi uporabnika",
@@ -11,7 +12,7 @@
 	"edituser-nouser": "Uporabnik »$1« ne obstaja.",
 	"edituser-exempt": "Uporabnika »$1« ni mogoče urejati.",
 	"right-edituser": "Urejanje nastavitev drugih uporabnikov",
-	"right-edituser-exempt": "Drugi ne morejo urejati nastavitev nastavitev tega uporabnika",
+	"right-edituser-exempt": "Preprečitev urejanja lastnih nastavitev drugim uporabnikom",
 	"action-edituser": "urejanje nastavitev drugih uporabnikov",
 	"action-edituser-exempt": "urejanje nastavitev tega uporabnika"
 }

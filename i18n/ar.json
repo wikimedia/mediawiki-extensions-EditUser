@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Alshamiri1",
 			"Loya",
 			"Meno25",
 			"Mutarjem horr",
@@ -16,7 +17,7 @@
 	"edituser-nouser": "المستخدم \"$1\" غير موجود.",
 	"edituser-exempt": "لا يمكن تحرير أي شيئ للمستخدم \"$1\" .",
 	"right-edituser": "تعديل تفضيلات المستخدمين الآخرين",
-	"right-edituser-exempt": "لا يمكن تعديل تفضيلاتهم بواسطة الآخرين",
+	"right-edituser-exempt": "منع المستخدمين الآخرين من تعديل تفضيلاتك الخاصة",
 	"action-edituser": "تعديل تفضيلات المستخدمين الآخرين",
 	"action-edituser-exempt": "تحرير تفضيلات هذا المستخدم"
 }

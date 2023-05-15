@@ -17,7 +17,7 @@
 	"edituser-nouser": "Użytkownik „$1” nie istnieje.",
 	"edituser-exempt": "Nie możesz edytować użytkownika „$1”.",
 	"right-edituser": "Edytowanie preferencji innych użytkowników",
-	"right-edituser-exempt": "Inni nie mogą edytować preferencji tego użytkownika",
+	"right-edituser-exempt": "Uniemożliwia innym edytowanie preferencji tego użytkownika",
 	"action-edituser": "edycji preferencji innych użytkowników",
 	"action-edituser-exempt": "edytowania preferencji tego użytkownika"
 }
