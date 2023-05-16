@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"BadDog",
+			"Milicevic01",
 			"Rancher",
 			"Sasa Stefanovic",
 			"Обрадовић Горан"
@@ -14,7 +15,7 @@
 	"edituser-nouser": "Корисник „$1“ не постоји.",
 	"edituser-exempt": "Не могу да уредим корисника „$1“.",
 	"right-edituser": "уређивање подешавања других корисника",
-	"right-edituser-exempt": "Други не могу да мењају подешавања овог корисника",
+	"right-edituser-exempt": "Други не могу да мењају Ваша подешавања",
 	"action-edituser": "уређујете подешавања других корисника",
 	"action-edituser-exempt": "уређујете подешавања овог корисника"
 }
