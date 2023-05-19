@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"HanV",
 			"Mainframe98",
 			"SPQRobin",
 			"Siebrand",
@@ -14,7 +15,7 @@
 	"edituser-nouser": "De gebruiker \"$1\" bestaat niet.",
 	"edituser-exempt": "De gebruiker \"$1\" kan niet bewerkt worden.",
 	"right-edituser": "Voorkeuren van andere gebruikers bewerken",
-	"right-edituser-exempt": "Voorkeuren niet te bewerken door anderen",
+	"right-edituser-exempt": "Voorkeuren niet door anderen laten bewerken",
 	"action-edituser": "voorkeuren van andere gebruikers bewerken",
 	"action-edituser-exempt": "bewerk de voorkeuren van deze gebruiker"
 }
