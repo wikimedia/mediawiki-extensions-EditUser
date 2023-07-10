@@ -13,7 +13,7 @@
 	"edituser-nouser": "Brukeren «$1» finnes ikke.",
 	"edituser-exempt": "Brukeren «$1» kan ikke redigeres.",
 	"right-edituser": "Rediger innstillingene til andre brukere",
-	"right-edituser-exempt": "Andre kan ikke redigere denne brukerens innstillinger",
+	"right-edituser-exempt": "Forhindre andre brukere fra å redigere dine innstillinger",
 	"action-edituser": "redigere innstillingene til andre brukere",
 	"action-edituser-exempt": "redigere innstillingene til denne brukeren"
 }
