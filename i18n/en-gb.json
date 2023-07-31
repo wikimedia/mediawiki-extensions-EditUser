@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Piano1forte2"
-		]
-	},
-	"edituser-nouser": "The user '$1' does not exist.",
-	"edituser-exempt": "The user '$1' cannot be edited."
-}
