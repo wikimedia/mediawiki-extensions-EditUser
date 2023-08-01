@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Winston Sung"
+		]
+	},
+	"edituser": "Uređivanje korisnika",
+	"edituser-desc": "Omogućava privilegovanim korisnicima da uređuju podešavanja drugih korisnika.",
+	"edituser-username": "Korisničko ime:",
+	"edituser-dosearch": "Traži",
+	"edituser-nouser": "Korisnik \"$1\" ne postoji.",
+	"edituser-exempt": "Korisnik \"$1\" ne može biti uređivan.",
+	"right-edituser": "Uređivanje podešavanja drugih korisnika",
+	"action-edituser": "uređivanje podešavanja drugih korisnika",
+	"action-edituser-exempt": "uređivanje podešavanja ovog korisnika"
+}
