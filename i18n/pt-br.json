@@ -5,6 +5,7 @@
 			"Eduardo Addad de Oliveira",
 			"Eduardo.mps",
 			"Eduardoaddad",
+			"Felipe L. Ewald",
 			"Giro720"
 		]
 	},
@@ -15,7 +16,7 @@
 	"edituser-nouser": "O usuário \"$1\" não existe.",
 	"edituser-exempt": "O usuário \"$1\" não pode ser editado.",
 	"right-edituser": "Editar as preferências de outros utilizadores",
-	"right-edituser-exempt": "Outros não podem editar as preferências deste usuário",
+	"right-edituser-exempt": "Impedir que outros usuários editem suas próprias preferências",
 	"action-edituser": "editar as preferências de outros usuários",
 	"action-edituser-exempt": "editar as preferências deste usuário"
 }
