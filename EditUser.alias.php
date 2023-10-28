@@ -248,6 +248,11 @@ $specialPageAliases['sr-ec'] = [
 	'EditUser' => [ 'Уреди_корисника' ],
 ];
 
+/** Serbian (Latin script) (srpski (latinica)‎) */
+$specialPageAliases['sr-el'] = [
+	'EditUser' => [ 'Uredi_korisnika' ],
+];
+
 /** Swedish (svenska) */
 $specialPageAliases['sv'] = [
 	'EditUser' => [ 'Redigera_användare' ],
