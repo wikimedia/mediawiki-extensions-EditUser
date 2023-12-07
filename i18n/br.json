@@ -3,6 +3,7 @@
 		"authors": [
 			"Fohanno",
 			"Fulup",
+			"Huñvreüs",
 			"Y-M D"
 		]
 	},
@@ -13,5 +14,5 @@
 	"edituser-nouser": "N'eus ket eus an implijer \"$1\".",
 	"edituser-exempt": "N'haller ket degas kemmoù d'an implijer \"$1\".",
 	"right-edituser": "Kemmañ a ra penndibaboù an implijerien all",
-	"right-edituser-exempt": "An dud diavaez n'hallont ket degas kemmoù e penndibaboù an implijer-mañ"
+	"right-edituser-exempt": "Mirout ouzh implijerien all da gemmañ ho penndibaboù-c’hwi"
 }
