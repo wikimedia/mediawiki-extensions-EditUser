@@ -12,7 +12,7 @@
 	"edituser-nouser": "L'utende \"$1\" non g'esiste.",
 	"edituser-exempt": "L'utende \"$1\" non ge pò essere cangiate.",
 	"right-edituser": "Cange le preferenze de l'otre utinde",
-	"right-edituser-exempt": "Non ge puè avè le lore preferenze cangiete da otre",
+	"right-edituser-exempt": "'Mbedisce a le otre utinde de cangià le lore preferenze",
 	"action-edituser": "cange le preferenze de l'otre utinde",
 	"action-edituser-exempt": "cange le preferenze de stu utende"
 }
