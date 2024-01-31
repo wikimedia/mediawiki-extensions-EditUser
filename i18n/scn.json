@@ -15,7 +15,7 @@
 	"edituser-nouser": "L’utenti «$1» nun esisti.",
 	"edituser-exempt": "L’utenti «$1» nun si pò canciari.",
 	"right-edituser": "Canciari li prifirenzi di l'àutri utenti",
-	"right-edituser-exempt": "L'àutri nun ponnu canciari li sò prifirenzi",
+	"right-edituser-exempt": "Mpidisci a àutri utenti di canciari li sò prifirenzi",
 	"action-edituser": "canciari li prifirenzi di l'àutri utenti",
 	"action-edituser-exempt": "canciari li prifirenzi di st'utenti"
 }
