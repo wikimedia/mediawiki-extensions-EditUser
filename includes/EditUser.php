@@ -148,7 +148,6 @@ class EditUser extends SpecialPage {
 			->setSubmitTextMsg( 'restoreprefs' )
 			->setSubmitCallback( [ $this, 'submitReset' ] )
 			->setSubmitDestructive()
-			->suppressReset()
 			->show();
 	}
 
