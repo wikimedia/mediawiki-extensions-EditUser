@@ -3,6 +3,7 @@
 		"authors": [
 			"Beta16",
 			"Darth Kule",
+			"Dream Indigo",
 			"Pinodd"
 		]
 	},
@@ -15,5 +16,5 @@
 	"right-edituser": "Modifica le preferenze degli altri utenti",
 	"right-edituser-exempt": "Impedisci ad altri utenti di modificare le proprie preferenze",
 	"action-edituser": "modificare le preferenze degli altri utenti",
-	"action-edituser-exempt": "modificare le preferenze di questo utente"
+	"action-edituser-exempt": "modificare le preferenze di quest'utente"
 }
