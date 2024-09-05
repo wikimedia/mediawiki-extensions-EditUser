@@ -13,7 +13,7 @@
 	"edituser-nouser": "İstifadəçi \"$1\" mövcud deyil",
 	"edituser-exempt": "İstifadəçi \"$1\" redaktə edilə bilməz",
 	"right-edituser": "Digər istifadəçilərin nizamlamalarını redaktə etmək",
-	"right-edituser-exempt": "digər istifadəçilər bu istifadəçinin nizamlamalarını redaktə edə bilməz",
+	"right-edituser-exempt": "Digər istifadəçilərin öz nizamlamalarını redaktə etməsinə mane olmaq",
 	"action-edituser": "digər istifadəçilərin nizamlamalarını redaktə et",
 	"action-edituser-exempt": "bu istifadəçinin nizamlamalarını redaktə et"
 }
