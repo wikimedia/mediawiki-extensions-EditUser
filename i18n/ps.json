@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ahmed-Najib-Biabani-Ibrahimkhel"
+			"Ahmed-Najib-Biabani-Ibrahimkhel",
+			"شاه زمان پټان"
 		]
 	},
 	"edituser": "کارن سمول",
-	"edituser-username": "کارن‌نوم:",
+	"edituser-username": "کارننوم:",
 	"edituser-dosearch": "پلټل",
 	"edituser-nouser": "د \"$1\" په نوم کارن نشته."
 }
