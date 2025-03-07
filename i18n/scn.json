@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Ajeje Brazorf",
+			"GianAntonucci",
 			"Markos90",
 			"Melos",
 			"Pippinu",
@@ -11,7 +12,7 @@
 	"edituser": "Cancia utenti",
 	"edituser-desc": "Pirmetti a l'utenti chî pirmissi nicissarî di canciari li prifirenzi di l'àutri utenti",
 	"edituser-username": "Nomu utenti:",
-	"edituser-dosearch": "Arricerca",
+	"edituser-dosearch": "Riscedi",
 	"edituser-nouser": "L’utenti «$1» nun esisti.",
 	"edituser-exempt": "L’utenti «$1» nun si pò canciari.",
 	"right-edituser": "Canciari li prifirenzi di l'àutri utenti",
