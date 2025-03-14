@@ -6,8 +6,8 @@
 		]
 	},
 	"edituser": "Padécéng anggota",
-	"edituser-username": "Aseŋ",
+	"edituser-username": "Aseppagguna:",
 	"edituser-dosearch": "Sappa",
-	"edituser-nouser": "Iyaro papaké dé' gaga",
-	"edituser-exempt": "Iyaro papaké dé'na ullé ripadécé"
+	"edituser-nouser": "Pagguna \"$1\" deqniruntuq.",
+	"edituser-exempt": "Pagguna \"$1\" deqwedding ripadécéng."
 }
