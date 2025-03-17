@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kurniasan"
+			"Kurniasan",
+			"Rdwnnr"
 		]
 	},
-	"edituser": "Papaké padécé",
-	"edituser-username": "Aseŋ",
+	"edituser": "Padécéng anggota",
+	"edituser-username": "Aseppagguna:",
 	"edituser-dosearch": "Sappa",
-	"edituser-nouser": "Iyaro papaké dé' gaga",
-	"edituser-exempt": "Iyaro papaké dé'na ullé ripadécé"
+	"edituser-nouser": "Pagguna \"$1\" deqniruntuq.",
+	"edituser-exempt": "Pagguna \"$1\" deqwedding ripadécéng."
 }
