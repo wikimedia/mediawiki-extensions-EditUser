@@ -1,5 +1,7 @@
 <?php
 
+use MediaWiki\Html\Html;
+
 class EditUserPreferencesForm extends PreferencesFormOOUI {
 	public function getExtraSuccessRedirectParameters() {
 		return [ 'username' => $this->getModifiedUser()->getName() ];
