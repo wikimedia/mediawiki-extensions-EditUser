@@ -11,7 +11,7 @@
 	"edituser-nouser": "Korisnik „$1“ ne postoji.",
 	"edituser-exempt": "Ne mogu da uredim korisnika „$1“.",
 	"right-edituser": "uređivanje podešavanja drugih korisnika",
-	"right-edituser-exempt": "Drugi ne mogu da menjaju podešavanja ovog korisnika",
+	"right-edituser-exempt": "Drugi ne mogu da menjaju Vaša podešavanja",
 	"action-edituser": "uređujete podešavanja drugih korisnika",
 	"action-edituser-exempt": "uređujete podešavanja ovog korisnika"
 }
