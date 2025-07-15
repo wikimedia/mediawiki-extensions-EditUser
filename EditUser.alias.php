@@ -283,12 +283,22 @@ $specialPageAliases['tt-cyrl'] = [
 	'EditUser' => [ 'Кулланучыны_үзгәртү' ],
 ];
 
-/** Simplified Chinese (中文（简体）‎) */
+/** Chinese (中文) */
+$specialPageAliases['zh'] = [
+	'EditUser' => [ 'EditUser' ],
+];
+
+/** Simplified Chinese (中文（简体）) */
 $specialPageAliases['zh-hans'] = [
 	'EditUser' => [ '编辑用户' ],
 ];
 
-/** Traditional Chinese (中文（繁體）‎) */
+/** Traditional Chinese (中文（繁體）) */
 $specialPageAliases['zh-hant'] = [
+	'EditUser' => [ '編輯使用者' ],
+];
+
+/** Chinese (Hong Kong) (中文（香港）) */
+$specialPageAliases['zh-hk'] = [
 	'EditUser' => [ '編輯用戶' ],
 ];
