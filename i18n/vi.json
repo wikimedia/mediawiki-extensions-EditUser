@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Minh Nguyen",
+			"Nvdtn19",
 			"Vinhtantran"
 		]
 	},
-	"edituser": "Sửa chữa Thành viên",
+	"edituser": "Sửa thành viên",
 	"edituser-desc": "Cho phép những thành viên đặc quyền được sửa đổi tùy chọn của thành viên khác",
 	"edituser-username": "Tên người dùng:",
 	"edituser-dosearch": "Tìm kiếm",
