@@ -6,7 +6,8 @@
 			"Meno25",
 			"Mutarjem horr",
 			"OsamaK",
-			"ديفيد"
+			"ديفيد",
+			"SZX"
 		]
 	},
 	"edituser": "تعديل مستخدم",
@@ -15,7 +16,7 @@
 	"edituser-username": "اسم المستخدم:",
 	"edituser-dosearch": "بحث",
 	"edituser-nouser": "المستخدم \"$1\" غير موجود.",
-	"edituser-exempt": "لا يمكن تحرير أي شيئ للمستخدم \"$1\" .",
+	"edituser-exempt": "لا يمكن تحرير أي شيء للمستخدم \"$1\" .",
 	"right-edituser": "تعديل تفضيلات المستخدمين الآخرين",
 	"right-edituser-exempt": "منع المستخدمين الآخرين من تعديل تفضيلاتك الخاصة",
 	"action-edituser": "تعديل تفضيلات المستخدمين الآخرين",
