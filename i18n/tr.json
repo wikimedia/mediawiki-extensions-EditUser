@@ -7,6 +7,7 @@
 			"Manco Capac",
 			"MuratTheTurkish",
 			"Rapsar",
+			"SaldırganSincap",
 			"Sayginer",
 			"Vito Genovese"
 		]
@@ -18,7 +19,7 @@
 	"edituser-nouser": "\"$1\" kullanıcısı mevcut değil.",
 	"edituser-exempt": "\"$1\" adlı kullanıcı düzenlenemiyor.",
 	"right-edituser": "Diğer kullanıcıların tercihlerini düzenle",
-	"right-edituser-exempt": "Başkaları bu kullanıcının tercihlerini düzenleyemez",
+	"right-edituser-exempt": "Diğer kullanıcıların kendi tercihlerinizi değiştirmesini önleyin",
 	"action-edituser": "diğer kullanıcıların tercihlerini düzenle",
 	"action-edituser-exempt": "bu kullanıcının tercihlerini değiştir"
 }
