@@ -6,7 +6,12 @@
 		]
 	},
 	"edituser": "Breyta notanda",
+	"edituser-desc": "Leyfir notendum með auknar heimildir kleift að breyta stillingum annarra notenda",
 	"edituser-username": "Notandanafn:",
 	"edituser-dosearch": "Leita",
-	"edituser-nouser": "Notandinn „$1“ er ekki til."
+	"edituser-nouser": "Notandinn „$1“ er ekki til.",
+	"edituser-exempt": "Ekki er hægt að breyta notandanum \"$1\".",
+	"right-edituser": "Breyta kjörstillingum annarra notenda",
+	"action-edituser": "breyta kjörstillingum annarra notenda",
+	"action-edituser-exempt": "breyta kjörstillingum þessa notanda"
 }
