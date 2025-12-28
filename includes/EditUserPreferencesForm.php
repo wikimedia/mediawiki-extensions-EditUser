@@ -16,11 +16,11 @@ class EditUserPreferencesForm extends PreferencesFormOOUI {
 			[ 'reset' => 1, 'username' => $this->getModifiedUser()->getName() ]
 		);
 
-		$html .= "\n" . Xml::element( 'a', [ 'href' => $url ],
+		$html .= "\n" . Html::element( 'a', [ 'href' => $url ],
 			$this->msg( 'restoreprefs' )->escaped(),
 				Html::buttonAttributes( $attrs, [ 'mw-ui-quiet' ] ) );
 
-		$html = Xml::tags( 'div', [ 'class' => 'mw-prefs-buttons' ], $html );
+		$html = Html::rawElement( 'div', [ 'class' => 'mw-prefs-buttons' ], $html );
 
 		return $html;
 	}
