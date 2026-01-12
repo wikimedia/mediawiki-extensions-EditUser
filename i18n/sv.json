@@ -6,6 +6,7 @@
 			"M.M.S.",
 			"Najami",
 			"Nghtwlkr",
+			"Stefan2255",
 			"WikiPhoenix"
 		]
 	},
@@ -16,7 +17,7 @@
 	"edituser-nouser": "Användaren «$1» finns inte.",
 	"edituser-exempt": "Användaren «$1» kan inte redigeras.",
 	"right-edituser": "Redigera andra användares inställningar",
-	"right-edituser-exempt": "Deras inställningar kan inte redigeras av andra",
+	"right-edituser-exempt": "Förhindra att andra användare redigerar dina egna inställningar",
 	"action-edituser": "redigera inställningar för andra användare",
 	"action-edituser-exempt": "redigera inställningar för denna användare"
 }
