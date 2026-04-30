@@ -32,7 +32,12 @@ use MediaWiki\MediaWikiServices;
  */
 class EditUser extends SpecialPage {
 	public function __construct() {
-		parent::__construct( 'EditUser', 'edituser' );
+		parent::__construct( 'EditUser' );
+	}
+
+	/** @inheritDoc */
+	public function getRestriction(): string {
+		return 'edituser';
 	}
 
 	public function doesWrites() {
