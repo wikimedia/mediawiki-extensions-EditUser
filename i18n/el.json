@@ -3,10 +3,17 @@
 		"authors": [
 			"Consta",
 			"Crazymadlover",
+			"Jimkats",
 			"Omnipaedista"
 		]
 	},
 	"edituser": "Τροποποίηση χρήστη",
 	"edituser-username": "Όνομα χρήστη:",
-	"edituser-dosearch": "Αναζήτηση"
+	"edituser-dosearch": "Αναζήτηση",
+	"edituser-nouser": "Ο χρήστης \"$1\" δεν υπάρχει.",
+	"edituser-exempt": "Δεν είναι δυνατή η επεξεργασία του χρήστη \"$1\".",
+	"right-edituser": "Επεξεργασία προτιμήσεων άλλων χρηστών",
+	"right-edituser-exempt": "Αποτροπή άλλων χρηστών από το να επεξεργάζονται τις δικές σας προτιμήσεις",
+	"action-edituser": "επεξεργασία των προτιμήσεων άλλων χρηστών",
+	"action-edituser-exempt": "επεξεργασία προτιμήσεων αυτού του χρήστη"
 }
