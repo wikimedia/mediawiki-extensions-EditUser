@@ -4,6 +4,7 @@
 			"Hooshmand.hasannia",
 			"Huji",
 			"Jeeputer",
+			"LProfo",
 			"Mjbmr",
 			"Mohammad ebz"
 		]
@@ -12,7 +13,7 @@
 	"edituser-username": "نام کاربری:",
 	"edituser-dosearch": "جستجو",
 	"edituser-nouser": "کاربر \"$1\" وجود ندارد.",
-	"edituser-exempt": "کاربر «$1» قابل ویرایش شدن نیست.",
+	"edituser-exempt": "کاربر «$1» نمی‌تواند ویرایش شود.",
 	"right-edituser": "ویرایش ترجیحات سایر کاربران",
 	"right-edituser-exempt": "جلوگیری از ویرایش ترجیحات شما توسط سایر کاربران",
 	"action-edituser": "ویرایش ترجیحات سایر کاربران",
